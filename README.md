@@ -1,5 +1,7 @@
 # blackjack-ev
 
+[![validate](https://github.com/SlotDropApp/blackjack-ev/actions/workflows/validate.yml/badge.svg)](https://github.com/SlotDropApp/blackjack-ev/actions/workflows/validate.yml)
+
 Exact expected value for every blackjack decision — 340 situations, solved
 by recursion rather than simulated, then checked against a published chart
 transcribed by hand.
