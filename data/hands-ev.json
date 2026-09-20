@@ -1,0 +1,4522 @@
+{
+"10-vs-10": {
+"best": "hit",
+"best_ev": 0.02531,
+"cout_erreur": 0.03397,
+"ev": {
+"double": -0.00866,
+"hit": 0.02531,
+"stand": -0.54043
+},
+"p_crever_croupier": 0.22978,
+"p_crever_joueur": 0,
+"second": "double"
+},
+"10-vs-2": {
+"best": "double",
+"best_ev": 0.35894,
+"cout_erreur": 0.17644,
+"ev": {
+"double": 0.35894,
+"hit": 0.1825,
+"stand": -0.29278
+},
+"p_crever_croupier": 0.35361,
+"p_crever_joueur": 0,
+"second": "hit"
+},
+"10-vs-3": {
+"best": "double",
+"best_ev": 0.40932,
+"cout_erreur": 0.20323,
+"ev": {
+"double": 0.40932,
+"hit": 0.20609,
+"stand": -0.25225
+},
+"p_crever_croupier": 0.37387,
+"p_crever_joueur": 0,
+"second": "hit"
+},
+"10-vs-4": {
+"best": "double",
+"best_ev": 0.46094,
+"cout_erreur": 0.23047,
+"ev": {
+"double": 0.46094,
+"hit": 0.23047,
+"stand": -0.21106
+},
+"p_crever_croupier": 0.39447,
+"p_crever_joueur": 0,
+"second": "hit"
+},
+"10-vs-5": {
+"best": "double",
+"best_ev": 0.51252,
+"cout_erreur": 0.25626,
+"ev": {
+"double": 0.51252,
+"hit": 0.25626,
+"stand": -0.16719
+},
+"p_crever_croupier": 0.4164,
+"p_crever_joueur": 0,
+"second": "hit"
+},
+"10-vs-6": {
+"best": "double",
+"best_ev": 0.57559,
+"cout_erreur": 0.2878,
+"ev": {
+"double": 0.57559,
+"hit": 0.2878,
+"stand": -0.1537
+},
+"p_crever_croupier": 0.42315,
+"p_crever_joueur": 0,
+"second": "hit"
+},
+"10-vs-7": {
+"best": "double",
+"best_ev": 0.39241,
+"cout_erreur": 0.1355,
+"ev": {
+"double": 0.39241,
+"hit": 0.25691,
+"stand": -0.47538
+},
+"p_crever_croupier": 0.26231,
+"p_crever_joueur": 0,
+"second": "hit"
+},
+"10-vs-8": {
+"best": "double",
+"best_ev": 0.28664,
+"cout_erreur": 0.08868,
+"ev": {
+"double": 0.28664,
+"hit": 0.19795,
+"stand": -0.51052
+},
+"p_crever_croupier": 0.24474,
+"p_crever_joueur": 0,
+"second": "hit"
+},
+"10-vs-9": {
+"best": "double",
+"best_ev": 0.14433,
+"cout_erreur": 0.0278,
+"ev": {
+"double": 0.14433,
+"hit": 0.11653,
+"stand": -0.54315
+},
+"p_crever_croupier": 0.22843,
+"p_crever_joueur": 0,
+"second": "hit"
+},
+"10-vs-a": {
+"best": "hit",
+"best_ev": 0.08145,
+"cout_erreur": 0.09549,
+"ev": {
+"double": -0.01404,
+"hit": 0.08145,
+"stand": -0.66695
+},
+"p_crever_croupier": 0.16652,
+"p_crever_joueur": 0,
+"second": "double"
+},
+"11-vs-10": {
+"best": "double",
+"best_ev": 0.17969,
+"cout_erreur": 0.06021,
+"ev": {
+"double": 0.17969,
+"hit": 0.11948,
+"stand": -0.54043
+},
+"p_crever_croupier": 0.22978,
+"p_crever_joueur": 0,
+"second": "hit"
+},
+"11-vs-2": {
+"best": "double",
+"best_ev": 0.47064,
+"cout_erreur": 0.23229,
+"ev": {
+"double": 0.47064,
+"hit": 0.23835,
+"stand": -0.29278
+},
+"p_crever_croupier": 0.35361,
+"p_crever_joueur": 0,
+"second": "hit"
+},
+"11-vs-3": {
+"best": "double",
+"best_ev": 0.5178,
+"cout_erreur": 0.25747,
+"ev": {
+"double": 0.5178,
+"hit": 0.26033,
+"stand": -0.25225
+},
+"p_crever_croupier": 0.37387,
+"p_crever_joueur": 0,
+"second": "hit"
+},
+"11-vs-4": {
+"best": "double",
+"best_ev": 0.56604,
+"cout_erreur": 0.28302,
+"ev": {
+"double": 0.56604,
+"hit": 0.28302,
+"stand": -0.21106
+},
+"p_crever_croupier": 0.39447,
+"p_crever_joueur": 0,
+"second": "hit"
+},
+"11-vs-5": {
+"best": "double",
+"best_ev": 0.6147,
+"cout_erreur": 0.30735,
+"ev": {
+"double": 0.6147,
+"hit": 0.30735,
+"stand": -0.16719
+},
+"p_crever_croupier": 0.4164,
+"p_crever_joueur": 0,
+"second": "hit"
+},
+"11-vs-6": {
+"best": "double",
+"best_ev": 0.66738,
+"cout_erreur": 0.33369,
+"ev": {
+"double": 0.66738,
+"hit": 0.33369,
+"stand": -0.1537
+},
+"p_crever_croupier": 0.42315,
+"p_crever_joueur": 0,
+"second": "hit"
+},
+"11-vs-7": {
+"best": "double",
+"best_ev": 0.46289,
+"cout_erreur": 0.17074,
+"ev": {
+"double": 0.46289,
+"hit": 0.29215,
+"stand": -0.47538
+},
+"p_crever_croupier": 0.26231,
+"p_crever_joueur": 0,
+"second": "hit"
+},
+"11-vs-8": {
+"best": "double",
+"best_ev": 0.35069,
+"cout_erreur": 0.12071,
+"ev": {
+"double": 0.35069,
+"hit": 0.22998,
+"stand": -0.51052
+},
+"p_crever_croupier": 0.24474,
+"p_crever_joueur": 0,
+"second": "hit"
+},
+"11-vs-9": {
+"best": "double",
+"best_ev": 0.22778,
+"cout_erreur": 0.06953,
+"ev": {
+"double": 0.22778,
+"hit": 0.15826,
+"stand": -0.54315
+},
+"p_crever_croupier": 0.22843,
+"p_crever_joueur": 0,
+"second": "hit"
+},
+"11-vs-a": {
+"best": "hit",
+"best_ev": 0.143,
+"cout_erreur": 0.03394,
+"ev": {
+"double": 0.10906,
+"hit": 0.143,
+"stand": -0.66695
+},
+"p_crever_croupier": 0.16652,
+"p_crever_joueur": 0,
+"second": "double"
+},
+"12-vs-10": {
+"best": "hit",
+"best_ev": -0.38104,
+"cout_erreur": 0.15939,
+"ev": {
+"double": -0.79684,
+"hit": -0.38104,
+"stand": -0.54043
+},
+"p_crever_croupier": 0.22978,
+"p_crever_joueur": 0.30769,
+"second": "stand"
+},
+"12-vs-2": {
+"best": "hit",
+"best_ev": -0.25339,
+"cout_erreur": 0.03939,
+"ev": {
+"double": -0.50678,
+"hit": -0.25339,
+"stand": -0.29278
+},
+"p_crever_croupier": 0.35361,
+"p_crever_joueur": 0.30769,
+"second": "stand"
+},
+"12-vs-3": {
+"best": "hit",
+"best_ev": -0.23369,
+"cout_erreur": 0.01856,
+"ev": {
+"double": -0.46738,
+"hit": -0.23369,
+"stand": -0.25225
+},
+"p_crever_croupier": 0.37387,
+"p_crever_joueur": 0.30769,
+"second": "stand"
+},
+"12-vs-4": {
+"best": "stand",
+"best_ev": -0.21106,
+"cout_erreur": 0.00247,
+"ev": {
+"double": -0.42707,
+"hit": -0.21354,
+"stand": -0.21106
+},
+"p_crever_croupier": 0.39447,
+"p_crever_joueur": 0.30769,
+"second": "hit"
+},
+"12-vs-5": {
+"best": "stand",
+"best_ev": -0.16719,
+"cout_erreur": 0.02608,
+"ev": {
+"double": -0.38654,
+"hit": -0.19327,
+"stand": -0.16719
+},
+"p_crever_croupier": 0.4164,
+"p_crever_joueur": 0.30769,
+"second": "hit"
+},
+"12-vs-6": {
+"best": "stand",
+"best_ev": -0.1537,
+"cout_erreur": 0.01683,
+"ev": {
+"double": -0.34105,
+"hit": -0.17053,
+"stand": -0.1537
+},
+"p_crever_croupier": 0.42315,
+"p_crever_joueur": 0.30769,
+"second": "hit"
+},
+"12-vs-7": {
+"best": "hit",
+"best_ev": -0.21285,
+"cout_erreur": 0.26253,
+"ev": {
+"double": -0.50671,
+"hit": -0.21285,
+"stand": -0.47538
+},
+"p_crever_croupier": 0.26231,
+"p_crever_joueur": 0.30769,
+"second": "stand"
+},
+"12-vs-8": {
+"best": "hit",
+"best_ev": -0.27157,
+"cout_erreur": 0.23894,
+"ev": {
+"double": -0.61566,
+"hit": -0.27157,
+"stand": -0.51052
+},
+"p_crever_croupier": 0.24474,
+"p_crever_joueur": 0.30769,
+"second": "stand"
+},
+"12-vs-9": {
+"best": "hit",
+"best_ev": -0.34001,
+"cout_erreur": 0.20314,
+"ev": {
+"double": -0.73751,
+"hit": -0.34001,
+"stand": -0.54315
+},
+"p_crever_croupier": 0.22843,
+"p_crever_joueur": 0.30769,
+"second": "stand"
+},
+"12-vs-a": {
+"best": "hit",
+"best_ev": -0.35054,
+"cout_erreur": 0.31641,
+"ev": {
+"double": -0.82934,
+"hit": -0.35054,
+"stand": -0.66695
+},
+"p_crever_croupier": 0.16652,
+"p_crever_joueur": 0.30769,
+"second": "stand"
+},
+"13-vs-10": {
+"best": "hit",
+"best_ev": -0.42525,
+"cout_erreur": 0.11518,
+"ev": {
+"double": -0.86754,
+"hit": -0.42525,
+"stand": -0.54043
+},
+"p_crever_croupier": 0.22978,
+"p_crever_joueur": 0.38462,
+"second": "stand"
+},
+"13-vs-2": {
+"best": "stand",
+"best_ev": -0.29278,
+"cout_erreur": 0.01501,
+"ev": {
+"double": -0.61558,
+"hit": -0.30779,
+"stand": -0.29278
+},
+"p_crever_croupier": 0.35361,
+"p_crever_joueur": 0.38462,
+"second": "hit"
+},
+"13-vs-3": {
+"best": "stand",
+"best_ev": -0.25225,
+"cout_erreur": 0.03896,
+"ev": {
+"double": -0.58242,
+"hit": -0.29121,
+"stand": -0.25225
+},
+"p_crever_croupier": 0.37387,
+"p_crever_joueur": 0.38462,
+"second": "hit"
+},
+"13-vs-4": {
+"best": "stand",
+"best_ev": -0.21106,
+"cout_erreur": 0.06316,
+"ev": {
+"double": -0.54845,
+"hit": -0.27422,
+"stand": -0.21106
+},
+"p_crever_croupier": 0.39447,
+"p_crever_joueur": 0.38462,
+"second": "hit"
+},
+"13-vs-5": {
+"best": "stand",
+"best_ev": -0.16719,
+"cout_erreur": 0.09014,
+"ev": {
+"double": -0.51467,
+"hit": -0.25733,
+"stand": -0.16719
+},
+"p_crever_croupier": 0.4164,
+"p_crever_joueur": 0.38462,
+"second": "hit"
+},
+"13-vs-6": {
+"best": "stand",
+"best_ev": -0.1537,
+"cout_erreur": 0.08193,
+"ev": {
+"double": -0.47125,
+"hit": -0.23563,
+"stand": -0.1537
+},
+"p_crever_croupier": 0.42315,
+"p_crever_joueur": 0.38462,
+"second": "hit"
+},
+"13-vs-7": {
+"best": "hit",
+"best_ev": -0.26907,
+"cout_erreur": 0.2063,
+"ev": {
+"double": -0.58742,
+"hit": -0.26907,
+"stand": -0.47538
+},
+"p_crever_croupier": 0.26231,
+"p_crever_joueur": 0.38462,
+"second": "stand"
+},
+"13-vs-8": {
+"best": "hit",
+"best_ev": -0.32361,
+"cout_erreur": 0.18691,
+"ev": {
+"double": -0.69097,
+"hit": -0.32361,
+"stand": -0.51052
+},
+"p_crever_croupier": 0.24474,
+"p_crever_joueur": 0.38462,
+"second": "stand"
+},
+"13-vs-9": {
+"best": "hit",
+"best_ev": -0.38716,
+"cout_erreur": 0.15599,
+"ev": {
+"double": -0.80779,
+"hit": -0.38716,
+"stand": -0.54315
+},
+"p_crever_croupier": 0.22843,
+"p_crever_joueur": 0.38462,
+"second": "stand"
+},
+"13-vs-a": {
+"best": "hit",
+"best_ev": -0.39693,
+"cout_erreur": 0.27002,
+"ev": {
+"double": -0.88058,
+"hit": -0.39693,
+"stand": -0.66695
+},
+"p_crever_croupier": 0.16652,
+"p_crever_joueur": 0.38462,
+"second": "stand"
+},
+"14-vs-10": {
+"best": "hit",
+"best_ev": -0.46631,
+"cout_erreur": 0.07412,
+"ev": {
+"double": -0.93825,
+"hit": -0.46631,
+"stand": -0.54043
+},
+"p_crever_croupier": 0.22978,
+"p_crever_joueur": 0.46154,
+"second": "stand"
+},
+"14-vs-2": {
+"best": "stand",
+"best_ev": -0.29278,
+"cout_erreur": 0.06941,
+"ev": {
+"double": -0.72438,
+"hit": -0.36219,
+"stand": -0.29278
+},
+"p_crever_croupier": 0.35361,
+"p_crever_joueur": 0.46154,
+"second": "hit"
+},
+"14-vs-3": {
+"best": "stand",
+"best_ev": -0.25225,
+"cout_erreur": 0.09648,
+"ev": {
+"double": -0.69746,
+"hit": -0.34873,
+"stand": -0.25225
+},
+"p_crever_croupier": 0.37387,
+"p_crever_joueur": 0.46154,
+"second": "hit"
+},
+"14-vs-4": {
+"best": "stand",
+"best_ev": -0.21106,
+"cout_erreur": 0.12385,
+"ev": {
+"double": -0.66982,
+"hit": -0.33491,
+"stand": -0.21106
+},
+"p_crever_croupier": 0.39447,
+"p_crever_joueur": 0.46154,
+"second": "hit"
+},
+"14-vs-5": {
+"best": "stand",
+"best_ev": -0.16719,
+"cout_erreur": 0.1542,
+"ev": {
+"double": -0.64279,
+"hit": -0.3214,
+"stand": -0.16719
+},
+"p_crever_croupier": 0.4164,
+"p_crever_joueur": 0.46154,
+"second": "hit"
+},
+"14-vs-6": {
+"best": "stand",
+"best_ev": -0.1537,
+"cout_erreur": 0.14703,
+"ev": {
+"double": -0.60145,
+"hit": -0.30073,
+"stand": -0.1537
+},
+"p_crever_croupier": 0.42315,
+"p_crever_joueur": 0.46154,
+"second": "hit"
+},
+"14-vs-7": {
+"best": "hit",
+"best_ev": -0.32128,
+"cout_erreur": 0.15409,
+"ev": {
+"double": -0.66813,
+"hit": -0.32128,
+"stand": -0.47538
+},
+"p_crever_croupier": 0.26231,
+"p_crever_joueur": 0.46154,
+"second": "stand"
+},
+"14-vs-8": {
+"best": "hit",
+"best_ev": -0.37192,
+"cout_erreur": 0.1386,
+"ev": {
+"double": -0.76627,
+"hit": -0.37192,
+"stand": -0.51052
+},
+"p_crever_croupier": 0.24474,
+"p_crever_joueur": 0.46154,
+"second": "stand"
+},
+"14-vs-9": {
+"best": "hit",
+"best_ev": -0.43093,
+"cout_erreur": 0.11222,
+"ev": {
+"double": -0.87807,
+"hit": -0.43093,
+"stand": -0.54315
+},
+"p_crever_croupier": 0.22843,
+"p_crever_joueur": 0.46154,
+"second": "stand"
+},
+"14-vs-a": {
+"best": "hit",
+"best_ev": -0.44001,
+"cout_erreur": 0.22694,
+"ev": {
+"double": -0.93182,
+"hit": -0.44001,
+"stand": -0.66695
+},
+"p_crever_croupier": 0.16652,
+"p_crever_joueur": 0.46154,
+"second": "stand"
+},
+"15-vs-10": {
+"best": "hit",
+"best_ev": -0.50443,
+"cout_erreur": 0.036,
+"ev": {
+"double": -1.00895,
+"hit": -0.50443,
+"stand": -0.54043
+},
+"p_crever_croupier": 0.22978,
+"p_crever_joueur": 0.53846,
+"second": "stand"
+},
+"15-vs-2": {
+"best": "stand",
+"best_ev": -0.29278,
+"cout_erreur": 0.12381,
+"ev": {
+"double": -0.83319,
+"hit": -0.41659,
+"stand": -0.29278
+},
+"p_crever_croupier": 0.35361,
+"p_crever_joueur": 0.53846,
+"second": "hit"
+},
+"15-vs-3": {
+"best": "stand",
+"best_ev": -0.25225,
+"cout_erreur": 0.154,
+"ev": {
+"double": -0.8125,
+"hit": -0.40625,
+"stand": -0.25225
+},
+"p_crever_croupier": 0.37387,
+"p_crever_joueur": 0.53846,
+"second": "hit"
+},
+"15-vs-4": {
+"best": "stand",
+"best_ev": -0.21106,
+"cout_erreur": 0.18454,
+"ev": {
+"double": -0.7912,
+"hit": -0.3956,
+"stand": -0.21106
+},
+"p_crever_croupier": 0.39447,
+"p_crever_joueur": 0.53846,
+"second": "hit"
+},
+"15-vs-5": {
+"best": "stand",
+"best_ev": -0.16719,
+"cout_erreur": 0.21826,
+"ev": {
+"double": -0.77091,
+"hit": -0.38546,
+"stand": -0.16719
+},
+"p_crever_croupier": 0.4164,
+"p_crever_joueur": 0.53846,
+"second": "hit"
+},
+"15-vs-6": {
+"best": "stand",
+"best_ev": -0.1537,
+"cout_erreur": 0.21213,
+"ev": {
+"double": -0.73165,
+"hit": -0.36583,
+"stand": -0.1537
+},
+"p_crever_croupier": 0.42315,
+"p_crever_joueur": 0.53846,
+"second": "hit"
+},
+"15-vs-7": {
+"best": "hit",
+"best_ev": -0.36976,
+"cout_erreur": 0.10561,
+"ev": {
+"double": -0.74885,
+"hit": -0.36976,
+"stand": -0.47538
+},
+"p_crever_croupier": 0.26231,
+"p_crever_joueur": 0.53846,
+"second": "stand"
+},
+"15-vs-8": {
+"best": "hit",
+"best_ev": -0.41678,
+"cout_erreur": 0.09374,
+"ev": {
+"double": -0.84158,
+"hit": -0.41678,
+"stand": -0.51052
+},
+"p_crever_croupier": 0.24474,
+"p_crever_joueur": 0.53846,
+"second": "stand"
+},
+"15-vs-9": {
+"best": "hit",
+"best_ev": -0.47158,
+"cout_erreur": 0.07157,
+"ev": {
+"double": -0.94836,
+"hit": -0.47158,
+"stand": -0.54315
+},
+"p_crever_croupier": 0.22843,
+"p_crever_joueur": 0.53846,
+"second": "stand"
+},
+"15-vs-a": {
+"best": "hit",
+"best_ev": -0.48001,
+"cout_erreur": 0.18694,
+"ev": {
+"double": -0.98306,
+"hit": -0.48001,
+"stand": -0.66695
+},
+"p_crever_croupier": 0.16652,
+"p_crever_joueur": 0.53846,
+"second": "stand"
+},
+"16-vs-10": {
+"best": "hit",
+"best_ev": -0.53983,
+"cout_erreur": 0.0006,
+"ev": {
+"double": -1.07965,
+"hit": -0.53983,
+"stand": -0.54043
+},
+"p_crever_croupier": 0.22978,
+"p_crever_joueur": 0.61538,
+"second": "stand"
+},
+"16-vs-2": {
+"best": "stand",
+"best_ev": -0.29278,
+"cout_erreur": 0.17821,
+"ev": {
+"double": -0.94199,
+"hit": -0.47099,
+"stand": -0.29278
+},
+"p_crever_croupier": 0.35361,
+"p_crever_joueur": 0.61538,
+"second": "hit"
+},
+"16-vs-3": {
+"best": "stand",
+"best_ev": -0.25225,
+"cout_erreur": 0.21152,
+"ev": {
+"double": -0.92754,
+"hit": -0.46377,
+"stand": -0.25225
+},
+"p_crever_croupier": 0.37387,
+"p_crever_joueur": 0.61538,
+"second": "hit"
+},
+"16-vs-4": {
+"best": "stand",
+"best_ev": -0.21106,
+"cout_erreur": 0.24522,
+"ev": {
+"double": -0.91257,
+"hit": -0.45629,
+"stand": -0.21106
+},
+"p_crever_croupier": 0.39447,
+"p_crever_joueur": 0.61538,
+"second": "hit"
+},
+"16-vs-5": {
+"best": "stand",
+"best_ev": -0.16719,
+"cout_erreur": 0.28233,
+"ev": {
+"double": -0.89904,
+"hit": -0.44952,
+"stand": -0.16719
+},
+"p_crever_croupier": 0.4164,
+"p_crever_joueur": 0.61538,
+"second": "hit"
+},
+"16-vs-6": {
+"best": "stand",
+"best_ev": -0.1537,
+"cout_erreur": 0.27723,
+"ev": {
+"double": -0.86185,
+"hit": -0.43093,
+"stand": -0.1537
+},
+"p_crever_croupier": 0.42315,
+"p_crever_joueur": 0.61538,
+"second": "hit"
+},
+"16-vs-7": {
+"best": "hit",
+"best_ev": -0.41478,
+"cout_erreur": 0.0606,
+"ev": {
+"double": -0.82956,
+"hit": -0.41478,
+"stand": -0.47538
+},
+"p_crever_croupier": 0.26231,
+"p_crever_joueur": 0.61538,
+"second": "stand"
+},
+"16-vs-8": {
+"best": "hit",
+"best_ev": -0.45844,
+"cout_erreur": 0.05208,
+"ev": {
+"double": -0.91688,
+"hit": -0.45844,
+"stand": -0.51052
+},
+"p_crever_croupier": 0.24474,
+"p_crever_joueur": 0.61538,
+"second": "stand"
+},
+"16-vs-9": {
+"best": "hit",
+"best_ev": -0.50932,
+"cout_erreur": 0.03383,
+"ev": {
+"double": -1.01864,
+"hit": -0.50932,
+"stand": -0.54315
+},
+"p_crever_croupier": 0.22843,
+"p_crever_joueur": 0.61538,
+"second": "stand"
+},
+"16-vs-a": {
+"best": "hit",
+"best_ev": -0.51715,
+"cout_erreur": 0.1498,
+"ev": {
+"double": -1.0343,
+"hit": -0.51715,
+"stand": -0.66695
+},
+"p_crever_croupier": 0.16652,
+"p_crever_joueur": 0.61538,
+"second": "stand"
+},
+"17-vs-10": {
+"best": "stand",
+"best_ev": -0.41972,
+"cout_erreur": 0.16474,
+"ev": {
+"double": -1.16893,
+"hit": -0.58446,
+"stand": -0.41972
+},
+"p_crever_croupier": 0.22978,
+"p_crever_joueur": 0.69231,
+"second": "hit"
+},
+"17-vs-2": {
+"best": "stand",
+"best_ev": -0.15297,
+"cout_erreur": 0.38318,
+"ev": {
+"double": -1.0723,
+"hit": -0.53615,
+"stand": -0.15297
+},
+"p_crever_croupier": 0.35361,
+"p_crever_joueur": 0.69231,
+"second": "hit"
+},
+"17-vs-3": {
+"best": "stand",
+"best_ev": -0.11722,
+"cout_erreur": 0.41446,
+"ev": {
+"double": -1.06335,
+"hit": -0.53167,
+"stand": -0.11722
+},
+"p_crever_croupier": 0.37387,
+"p_crever_joueur": 0.69231,
+"second": "hit"
+},
+"17-vs-4": {
+"best": "stand",
+"best_ev": -0.08057,
+"cout_erreur": 0.44644,
+"ev": {
+"double": -1.05402,
+"hit": -0.52701,
+"stand": -0.08057
+},
+"p_crever_croupier": 0.39447,
+"p_crever_joueur": 0.69231,
+"second": "hit"
+},
+"17-vs-5": {
+"best": "stand",
+"best_ev": -0.04494,
+"cout_erreur": 0.47804,
+"ev": {
+"double": -1.04597,
+"hit": -0.52299,
+"stand": -0.04494
+},
+"p_crever_croupier": 0.4164,
+"p_crever_joueur": 0.69231,
+"second": "hit"
+},
+"17-vs-6": {
+"best": "stand",
+"best_ev": 0.01174,
+"cout_erreur": 0.52049,
+"ev": {
+"double": -1.01751,
+"hit": -0.50875,
+"stand": 0.01174
+},
+"p_crever_croupier": 0.42315,
+"p_crever_joueur": 0.69231,
+"second": "hit"
+},
+"17-vs-7": {
+"best": "stand",
+"best_ev": -0.10681,
+"cout_erreur": 0.37668,
+"ev": {
+"double": -0.96697,
+"hit": -0.48349,
+"stand": -0.10681
+},
+"p_crever_croupier": 0.26231,
+"p_crever_joueur": 0.69231,
+"second": "hit"
+},
+"17-vs-8": {
+"best": "stand",
+"best_ev": -0.38195,
+"cout_erreur": 0.12403,
+"ev": {
+"double": -1.01197,
+"hit": -0.50598,
+"stand": -0.38195
+},
+"p_crever_croupier": 0.24474,
+"p_crever_joueur": 0.69231,
+"second": "hit"
+},
+"17-vs-9": {
+"best": "stand",
+"best_ev": -0.42315,
+"cout_erreur": 0.13054,
+"ev": {
+"double": -1.10739,
+"hit": -0.55369,
+"stand": -0.42315
+},
+"p_crever_croupier": 0.22843,
+"p_crever_joueur": 0.69231,
+"second": "hit"
+},
+"17-vs-a": {
+"best": "stand",
+"best_ev": -0.47803,
+"cout_erreur": 0.07927,
+"ev": {
+"double": -1.1146,
+"hit": -0.5573,
+"stand": -0.47803
+},
+"p_crever_croupier": 0.16652,
+"p_crever_joueur": 0.69231,
+"second": "hit"
+},
+"18-vs-10": {
+"best": "stand",
+"best_ev": -0.1783,
+"cout_erreur": 0.46937,
+"ev": {
+"double": -1.29534,
+"hit": -0.64767,
+"stand": -0.1783
+},
+"p_crever_croupier": 0.22978,
+"p_crever_joueur": 0.76923,
+"second": "hit"
+},
+"18-vs-2": {
+"best": "stand",
+"best_ev": 0.12174,
+"cout_erreur": 0.74418,
+"ev": {
+"double": -1.24488,
+"hit": -0.62244,
+"stand": 0.12174
+},
+"p_crever_croupier": 0.35361,
+"p_crever_joueur": 0.76923,
+"second": "hit"
+},
+"18-vs-3": {
+"best": "stand",
+"best_ev": 0.1483,
+"cout_erreur": 0.76831,
+"ev": {
+"double": -1.24001,
+"hit": -0.62,
+"stand": 0.1483
+},
+"p_crever_croupier": 0.37387,
+"p_crever_joueur": 0.76923,
+"second": "hit"
+},
+"18-vs-4": {
+"best": "stand",
+"best_ev": 0.17585,
+"cout_erreur": 0.79332,
+"ev": {
+"double": -1.23492,
+"hit": -0.61746,
+"stand": 0.17585
+},
+"p_crever_croupier": 0.39447,
+"p_crever_joueur": 0.76923,
+"second": "hit"
+},
+"18-vs-5": {
+"best": "stand",
+"best_ev": 0.19956,
+"cout_erreur": 0.81482,
+"ev": {
+"double": -1.23052,
+"hit": -0.61526,
+"stand": 0.19956
+},
+"p_crever_croupier": 0.4164,
+"p_crever_joueur": 0.76923,
+"second": "hit"
+},
+"18-vs-6": {
+"best": "stand",
+"best_ev": 0.28344,
+"cout_erreur": 0.89092,
+"ev": {
+"double": -1.21496,
+"hit": -0.60748,
+"stand": 0.28344
+},
+"p_crever_croupier": 0.42315,
+"p_crever_joueur": 0.76923,
+"second": "hit"
+},
+"18-vs-7": {
+"best": "stand",
+"best_ev": 0.39955,
+"cout_erreur": 0.9907,
+"ev": {
+"double": -1.18229,
+"hit": -0.59114,
+"stand": 0.39955
+},
+"p_crever_croupier": 0.26231,
+"p_crever_joueur": 0.76923,
+"second": "hit"
+},
+"18-vs-8": {
+"best": "stand",
+"best_ev": 0.10595,
+"cout_erreur": 0.69701,
+"ev": {
+"double": -1.18211,
+"hit": -0.59106,
+"stand": 0.10595
+},
+"p_crever_croupier": 0.24474,
+"p_crever_joueur": 0.76923,
+"second": "hit"
+},
+"18-vs-9": {
+"best": "stand",
+"best_ev": -0.18316,
+"cout_erreur": 0.43337,
+"ev": {
+"double": -1.23306,
+"hit": -0.61653,
+"stand": -0.18316
+},
+"p_crever_croupier": 0.22843,
+"p_crever_joueur": 0.76923,
+"second": "hit"
+},
+"18-vs-a": {
+"best": "stand",
+"best_ev": -0.1002,
+"cout_erreur": 0.52632,
+"ev": {
+"double": -1.25303,
+"hit": -0.62652,
+"stand": -0.1002
+},
+"p_crever_croupier": 0.16652,
+"p_crever_joueur": 0.76923,
+"second": "hit"
+},
+"19-vs-10": {
+"best": "stand",
+"best_ev": 0.06312,
+"cout_erreur": 0.79257,
+"ev": {
+"double": -1.4589,
+"hit": -0.72945,
+"stand": 0.06312
+},
+"p_crever_croupier": 0.22978,
+"p_crever_joueur": 0.84615,
+"second": "hit"
+},
+"19-vs-2": {
+"best": "stand",
+"best_ev": 0.3863,
+"cout_erreur": 1.11538,
+"ev": {
+"double": -1.45815,
+"hit": -0.72908,
+"stand": 0.3863
+},
+"p_crever_croupier": 0.35361,
+"p_crever_joueur": 0.84615,
+"second": "hit"
+},
+"19-vs-3": {
+"best": "stand",
+"best_ev": 0.40436,
+"cout_erreur": 1.1324,
+"ev": {
+"double": -1.45607,
+"hit": -0.72803,
+"stand": 0.40436
+},
+"p_crever_croupier": 0.37387,
+"p_crever_joueur": 0.84615,
+"second": "hit"
+},
+"19-vs-4": {
+"best": "stand",
+"best_ev": 0.42318,
+"cout_erreur": 1.15012,
+"ev": {
+"double": -1.45387,
+"hit": -0.72694,
+"stand": 0.42318
+},
+"p_crever_croupier": 0.39447,
+"p_crever_joueur": 0.84615,
+"second": "hit"
+},
+"19-vs-5": {
+"best": "stand",
+"best_ev": 0.43951,
+"cout_erreur": 1.1655,
+"ev": {
+"double": -1.45198,
+"hit": -0.72599,
+"stand": 0.43951
+},
+"p_crever_croupier": 0.4164,
+"p_crever_joueur": 0.84615,
+"second": "hit"
+},
+"19-vs-6": {
+"best": "stand",
+"best_ev": 0.49598,
+"cout_erreur": 1.21853,
+"ev": {
+"double": -1.44511,
+"hit": -0.72255,
+"stand": 0.49598
+},
+"p_crever_croupier": 0.42315,
+"p_crever_joueur": 0.84615,
+"second": "hit"
+},
+"19-vs-7": {
+"best": "stand",
+"best_ev": 0.61598,
+"cout_erreur": 1.33143,
+"ev": {
+"double": -1.4309,
+"hit": -0.71545,
+"stand": 0.61598
+},
+"p_crever_croupier": 0.26231,
+"p_crever_joueur": 0.84615,
+"second": "hit"
+},
+"19-vs-8": {
+"best": "stand",
+"best_ev": 0.59385,
+"cout_erreur": 1.30751,
+"ev": {
+"double": -1.42732,
+"hit": -0.71366,
+"stand": 0.59385
+},
+"p_crever_croupier": 0.24474,
+"p_crever_joueur": 0.84615,
+"second": "hit"
+},
+"19-vs-9": {
+"best": "stand",
+"best_ev": 0.2876,
+"cout_erreur": 1.00317,
+"ev": {
+"double": -1.43115,
+"hit": -0.71557,
+"stand": 0.2876
+},
+"p_crever_croupier": 0.22843,
+"p_crever_joueur": 0.84615,
+"second": "hit"
+},
+"19-vs-a": {
+"best": "stand",
+"best_ev": 0.27764,
+"cout_erreur": 1.00243,
+"ev": {
+"double": -1.44959,
+"hit": -0.7248,
+"stand": 0.27764
+},
+"p_crever_croupier": 0.16652,
+"p_crever_joueur": 0.84615,
+"second": "hit"
+},
+"20-vs-10": {
+"best": "stand",
+"best_ev": 0.55454,
+"cout_erreur": 1.40357,
+"ev": {
+"double": -1.69806,
+"hit": -0.84903,
+"stand": 0.55454
+},
+"p_crever_croupier": 0.22978,
+"p_crever_joueur": 0.92308,
+"second": "hit"
+},
+"20-vs-2": {
+"best": "stand",
+"best_ev": 0.63999,
+"cout_erreur": 1.49522,
+"ev": {
+"double": -1.71046,
+"hit": -0.85523,
+"stand": 0.63999
+},
+"p_crever_croupier": 0.35361,
+"p_crever_joueur": 0.92308,
+"second": "hit"
+},
+"20-vs-3": {
+"best": "stand",
+"best_ev": 0.65027,
+"cout_erreur": 1.50525,
+"ev": {
+"double": -1.70995,
+"hit": -0.85498,
+"stand": 0.65027
+},
+"p_crever_croupier": 0.37387,
+"p_crever_joueur": 0.92308,
+"second": "hit"
+},
+"20-vs-4": {
+"best": "stand",
+"best_ev": 0.66105,
+"cout_erreur": 1.51576,
+"ev": {
+"double": -1.70942,
+"hit": -0.85471,
+"stand": 0.66105
+},
+"p_crever_croupier": 0.39447,
+"p_crever_joueur": 0.92308,
+"second": "hit"
+},
+"20-vs-5": {
+"best": "stand",
+"best_ev": 0.67036,
+"cout_erreur": 1.52484,
+"ev": {
+"double": -1.70896,
+"hit": -0.85448,
+"stand": 0.67036
+},
+"p_crever_croupier": 0.4164,
+"p_crever_joueur": 0.92308,
+"second": "hit"
+},
+"20-vs-6": {
+"best": "stand",
+"best_ev": 0.70396,
+"cout_erreur": 1.55759,
+"ev": {
+"double": -1.70726,
+"hit": -0.85363,
+"stand": 0.70396
+},
+"p_crever_croupier": 0.42315,
+"p_crever_joueur": 0.92308,
+"second": "hit"
+},
+"20-vs-7": {
+"best": "stand",
+"best_ev": 0.77323,
+"cout_erreur": 1.62508,
+"ev": {
+"double": -1.7037,
+"hit": -0.85185,
+"stand": 0.77323
+},
+"p_crever_croupier": 0.26231,
+"p_crever_joueur": 0.92308,
+"second": "hit"
+},
+"20-vs-8": {
+"best": "stand",
+"best_ev": 0.79182,
+"cout_erreur": 1.64331,
+"ev": {
+"double": -1.70298,
+"hit": -0.85149,
+"stand": 0.79182
+},
+"p_crever_croupier": 0.24474,
+"p_crever_joueur": 0.92308,
+"second": "hit"
+},
+"20-vs-9": {
+"best": "stand",
+"best_ev": 0.75836,
+"cout_erreur": 1.60919,
+"ev": {
+"double": -1.70167,
+"hit": -0.85083,
+"stand": 0.75836
+},
+"p_crever_croupier": 0.22843,
+"p_crever_joueur": 0.92308,
+"second": "hit"
+},
+"20-vs-a": {
+"best": "stand",
+"best_ev": 0.65547,
+"cout_erreur": 1.50761,
+"ev": {
+"double": -1.70428,
+"hit": -0.85214,
+"stand": 0.65547
+},
+"p_crever_croupier": 0.16652,
+"p_crever_joueur": 0.92308,
+"second": "hit"
+},
+"5-vs-10": {
+"best": "hit",
+"best_ev": -0.31341,
+"cout_erreur": 0.22702,
+"ev": {
+"double": -1.08086,
+"hit": -0.31341,
+"stand": -0.54043
+},
+"p_crever_croupier": 0.22978,
+"p_crever_joueur": 0,
+"second": "stand"
+},
+"5-vs-2": {
+"best": "hit",
+"best_ev": -0.12822,
+"cout_erreur": 0.16457,
+"ev": {
+"double": -0.58557,
+"hit": -0.12822,
+"stand": -0.29278
+},
+"p_crever_croupier": 0.35361,
+"p_crever_joueur": 0,
+"second": "stand"
+},
+"5-vs-3": {
+"best": "hit",
+"best_ev": -0.09531,
+"cout_erreur": 0.15694,
+"ev": {
+"double": -0.5045,
+"hit": -0.09531,
+"stand": -0.25225
+},
+"p_crever_croupier": 0.37387,
+"p_crever_joueur": 0,
+"second": "stand"
+},
+"5-vs-4": {
+"best": "hit",
+"best_ev": -0.06148,
+"cout_erreur": 0.14958,
+"ev": {
+"double": -0.42213,
+"hit": -0.06148,
+"stand": -0.21106
+},
+"p_crever_croupier": 0.39447,
+"p_crever_joueur": 0,
+"second": "stand"
+},
+"5-vs-5": {
+"best": "hit",
+"best_ev": -0.02398,
+"cout_erreur": 0.14321,
+"ev": {
+"double": -0.33439,
+"hit": -0.02398,
+"stand": -0.16719
+},
+"p_crever_croupier": 0.4164,
+"p_crever_joueur": 0,
+"second": "stand"
+},
+"5-vs-6": {
+"best": "hit",
+"best_ev": -0.00119,
+"cout_erreur": 0.15251,
+"ev": {
+"double": -0.3074,
+"hit": -0.00119,
+"stand": -0.1537
+},
+"p_crever_croupier": 0.42315,
+"p_crever_joueur": 0,
+"second": "stand"
+},
+"5-vs-7": {
+"best": "hit",
+"best_ev": -0.11945,
+"cout_erreur": 0.35593,
+"ev": {
+"double": -0.95075,
+"hit": -0.11945,
+"stand": -0.47538
+},
+"p_crever_croupier": 0.26231,
+"p_crever_joueur": 0,
+"second": "stand"
+},
+"5-vs-8": {
+"best": "hit",
+"best_ev": -0.18809,
+"cout_erreur": 0.32242,
+"ev": {
+"double": -1.02104,
+"hit": -0.18809,
+"stand": -0.51052
+},
+"p_crever_croupier": 0.24474,
+"p_crever_joueur": 0,
+"second": "stand"
+},
+"5-vs-9": {
+"best": "hit",
+"best_ev": -0.26662,
+"cout_erreur": 0.27653,
+"ev": {
+"double": -1.0863,
+"hit": -0.26662,
+"stand": -0.54315
+},
+"p_crever_croupier": 0.22843,
+"p_crever_joueur": 0,
+"second": "stand"
+},
+"5-vs-a": {
+"best": "hit",
+"best_ev": -0.27857,
+"cout_erreur": 0.38838,
+"ev": {
+"double": -1.3339,
+"hit": -0.27857,
+"stand": -0.66695
+},
+"p_crever_croupier": 0.16652,
+"p_crever_joueur": 0,
+"second": "stand"
+},
+"6-vs-10": {
+"best": "hit",
+"best_ev": -0.33775,
+"cout_erreur": 0.20268,
+"ev": {
+"double": -1.06229,
+"hit": -0.33775,
+"stand": -0.54043
+},
+"p_crever_croupier": 0.22978,
+"p_crever_joueur": 0,
+"second": "stand"
+},
+"6-vs-2": {
+"best": "hit",
+"best_ev": -0.14076,
+"cout_erreur": 0.15202,
+"ev": {
+"double": -0.56406,
+"hit": -0.14076,
+"stand": -0.29278
+},
+"p_crever_croupier": 0.35361,
+"p_crever_joueur": 0,
+"second": "stand"
+},
+"6-vs-3": {
+"best": "hit",
+"best_ev": -0.10729,
+"cout_erreur": 0.14496,
+"ev": {
+"double": -0.48373,
+"hit": -0.10729,
+"stand": -0.25225
+},
+"p_crever_croupier": 0.37387,
+"p_crever_joueur": 0,
+"second": "stand"
+},
+"6-vs-4": {
+"best": "hit",
+"best_ev": -0.07292,
+"cout_erreur": 0.13815,
+"ev": {
+"double": -0.40205,
+"hit": -0.07292,
+"stand": -0.21106
+},
+"p_crever_croupier": 0.39447,
+"p_crever_joueur": 0,
+"second": "stand"
+},
+"6-vs-5": {
+"best": "hit",
+"best_ev": -0.03492,
+"cout_erreur": 0.13228,
+"ev": {
+"double": -0.31558,
+"hit": -0.03492,
+"stand": -0.16719
+},
+"p_crever_croupier": 0.4164,
+"p_crever_joueur": 0,
+"second": "stand"
+},
+"6-vs-6": {
+"best": "hit",
+"best_ev": -0.01301,
+"cout_erreur": 0.14069,
+"ev": {
+"double": -0.28195,
+"hit": -0.01301,
+"stand": -0.1537
+},
+"p_crever_croupier": 0.42315,
+"p_crever_joueur": 0,
+"second": "stand"
+},
+"6-vs-7": {
+"best": "hit",
+"best_ev": -0.15193,
+"cout_erreur": 0.32344,
+"ev": {
+"double": -0.89405,
+"hit": -0.15193,
+"stand": -0.47538
+},
+"p_crever_croupier": 0.26231,
+"p_crever_joueur": 0,
+"second": "stand"
+},
+"6-vs-8": {
+"best": "hit",
+"best_ev": -0.21724,
+"cout_erreur": 0.29328,
+"ev": {
+"double": -1.00126,
+"hit": -0.21724,
+"stand": -0.51052
+},
+"p_crever_croupier": 0.24474,
+"p_crever_joueur": 0,
+"second": "stand"
+},
+"6-vs-9": {
+"best": "hit",
+"best_ev": -0.29264,
+"cout_erreur": 0.25051,
+"ev": {
+"double": -1.06784,
+"hit": -0.29264,
+"stand": -0.54315
+},
+"p_crever_croupier": 0.22843,
+"p_crever_joueur": 0,
+"second": "stand"
+},
+"6-vs-a": {
+"best": "hit",
+"best_ev": -0.30415,
+"cout_erreur": 0.3628,
+"ev": {
+"double": -1.30484,
+"hit": -0.30415,
+"stand": -0.66695
+},
+"p_crever_croupier": 0.16652,
+"p_crever_joueur": 0,
+"second": "stand"
+},
+"7-vs-10": {
+"best": "hit",
+"best_ev": -0.31905,
+"cout_erreur": 0.22138,
+"ev": {
+"double": -0.95087,
+"hit": -0.31905,
+"stand": -0.54043
+},
+"p_crever_croupier": 0.22978,
+"p_crever_joueur": 0,
+"second": "stand"
+},
+"7-vs-2": {
+"best": "hit",
+"best_ev": -0.10918,
+"cout_erreur": 0.1836,
+"ev": {
+"double": -0.43576,
+"hit": -0.10918,
+"stand": -0.29278
+},
+"p_crever_croupier": 0.35361,
+"p_crever_joueur": 0,
+"second": "stand"
+},
+"7-vs-3": {
+"best": "hit",
+"best_ev": -0.07658,
+"cout_erreur": 0.17567,
+"ev": {
+"double": -0.35978,
+"hit": -0.07658,
+"stand": -0.25225
+},
+"p_crever_croupier": 0.37387,
+"p_crever_joueur": 0,
+"second": "stand"
+},
+"7-vs-4": {
+"best": "hit",
+"best_ev": -0.04302,
+"cout_erreur": 0.16804,
+"ev": {
+"double": -0.2823,
+"hit": -0.04302,
+"stand": -0.21106
+},
+"p_crever_croupier": 0.39447,
+"p_crever_joueur": 0,
+"second": "stand"
+},
+"7-vs-5": {
+"best": "hit",
+"best_ev": -0.00727,
+"cout_erreur": 0.15992,
+"ev": {
+"double": -0.20273,
+"hit": -0.00727,
+"stand": -0.16719
+},
+"p_crever_croupier": 0.4164,
+"p_crever_joueur": 0,
+"second": "stand"
+},
+"7-vs-6": {
+"best": "hit",
+"best_ev": 0.02919,
+"cout_erreur": 0.16752,
+"ev": {
+"double": -0.13834,
+"hit": 0.02919,
+"stand": -0.1537
+},
+"p_crever_croupier": 0.42315,
+"p_crever_joueur": 0,
+"second": "double"
+},
+"7-vs-7": {
+"best": "hit",
+"best_ev": -0.06881,
+"cout_erreur": 0.40657,
+"ev": {
+"double": -0.58934,
+"hit": -0.06881,
+"stand": -0.47538
+},
+"p_crever_croupier": 0.26231,
+"p_crever_joueur": 0,
+"second": "stand"
+},
+"7-vs-8": {
+"best": "hit",
+"best_ev": -0.2106,
+"cout_erreur": 0.29991,
+"ev": {
+"double": -0.84708,
+"hit": -0.2106,
+"stand": -0.51052
+},
+"p_crever_croupier": 0.24474,
+"p_crever_joueur": 0,
+"second": "stand"
+},
+"7-vs-9": {
+"best": "hit",
+"best_ev": -0.28537,
+"cout_erreur": 0.25778,
+"ev": {
+"double": -0.95707,
+"hit": -0.28537,
+"stand": -0.54315
+},
+"p_crever_croupier": 0.22843,
+"p_crever_joueur": 0,
+"second": "stand"
+},
+"7-vs-a": {
+"best": "hit",
+"best_ev": -0.31007,
+"cout_erreur": 0.35688,
+"ev": {
+"double": -1.13045,
+"hit": -0.31007,
+"stand": -0.66695
+},
+"p_crever_croupier": 0.16652,
+"p_crever_joueur": 0,
+"second": "stand"
+},
+"8-vs-10": {
+"best": "hit",
+"best_ev": -0.24938,
+"cout_erreur": 0.29106,
+"ev": {
+"double": -0.74659,
+"hit": -0.24938,
+"stand": -0.54043
+},
+"p_crever_croupier": 0.22978,
+"p_crever_joueur": 0,
+"second": "stand"
+},
+"8-vs-2": {
+"best": "hit",
+"best_ev": -0.0218,
+"cout_erreur": 0.18269,
+"ev": {
+"double": -0.20449,
+"hit": -0.0218,
+"stand": -0.29278
+},
+"p_crever_croupier": 0.35361,
+"p_crever_joueur": 0,
+"second": "double"
+},
+"8-vs-3": {
+"best": "hit",
+"best_ev": 0.00801,
+"cout_erreur": 0.14422,
+"ev": {
+"double": -0.13622,
+"hit": 0.00801,
+"stand": -0.25225
+},
+"p_crever_croupier": 0.37387,
+"p_crever_joueur": 0,
+"second": "double"
+},
+"8-vs-4": {
+"best": "hit",
+"best_ev": 0.03878,
+"cout_erreur": 0.10516,
+"ev": {
+"double": -0.06637,
+"hit": 0.03878,
+"stand": -0.21106
+},
+"p_crever_croupier": 0.39447,
+"p_crever_joueur": 0,
+"second": "double"
+},
+"8-vs-5": {
+"best": "hit",
+"best_ev": 0.0708,
+"cout_erreur": 0.06735,
+"ev": {
+"double": 0.00346,
+"hit": 0.0708,
+"stand": -0.16719
+},
+"p_crever_croupier": 0.4164,
+"p_crever_joueur": 0,
+"second": "double"
+},
+"8-vs-6": {
+"best": "hit",
+"best_ev": 0.11496,
+"cout_erreur": 0.02794,
+"ev": {
+"double": 0.08702,
+"hit": 0.11496,
+"stand": -0.1537
+},
+"p_crever_croupier": 0.42315,
+"p_crever_joueur": 0,
+"second": "double"
+},
+"8-vs-7": {
+"best": "hit",
+"best_ev": 0.08221,
+"cout_erreur": 0.26994,
+"ev": {
+"double": -0.18773,
+"hit": 0.08221,
+"stand": -0.47538
+},
+"p_crever_croupier": 0.26231,
+"p_crever_joueur": 0,
+"second": "double"
+},
+"8-vs-8": {
+"best": "hit",
+"best_ev": -0.0599,
+"cout_erreur": 0.39209,
+"ev": {
+"double": -0.45199,
+"hit": -0.0599,
+"stand": -0.51052
+},
+"p_crever_croupier": 0.24474,
+"p_crever_joueur": 0,
+"second": "double"
+},
+"8-vs-9": {
+"best": "hit",
+"best_ev": -0.21019,
+"cout_erreur": 0.33296,
+"ev": {
+"double": -0.7185,
+"hit": -0.21019,
+"stand": -0.54315
+},
+"p_crever_croupier": 0.22843,
+"p_crever_joueur": 0,
+"second": "stand"
+},
+"8-vs-a": {
+"best": "hit",
+"best_ev": -0.19703,
+"cout_erreur": 0.46992,
+"ev": {
+"double": -0.81075,
+"hit": -0.19703,
+"stand": -0.66695
+},
+"p_crever_croupier": 0.16652,
+"p_crever_joueur": 0,
+"second": "stand"
+},
+"9-vs-10": {
+"best": "hit",
+"best_ev": -0.15295,
+"cout_erreur": 0.31375,
+"ev": {
+"double": -0.46671,
+"hit": -0.15295,
+"stand": -0.54043
+},
+"p_crever_croupier": 0.22978,
+"p_crever_joueur": 0,
+"second": "double"
+},
+"9-vs-2": {
+"best": "hit",
+"best_ev": 0.07445,
+"cout_erreur": 0.01333,
+"ev": {
+"double": 0.06112,
+"hit": 0.07445,
+"stand": -0.29278
+},
+"p_crever_croupier": 0.35361,
+"p_crever_joueur": 0,
+"second": "double"
+},
+"9-vs-3": {
+"best": "double",
+"best_ev": 0.12082,
+"cout_erreur": 0.01955,
+"ev": {
+"double": 0.12082,
+"hit": 0.10126,
+"stand": -0.25225
+},
+"p_crever_croupier": 0.37387,
+"p_crever_joueur": 0,
+"second": "hit"
+},
+"9-vs-4": {
+"best": "double",
+"best_ev": 0.18195,
+"cout_erreur": 0.05297,
+"ev": {
+"double": 0.18195,
+"hit": 0.12898,
+"stand": -0.21106
+},
+"p_crever_croupier": 0.39447,
+"p_crever_joueur": 0,
+"second": "hit"
+},
+"9-vs-5": {
+"best": "double",
+"best_ev": 0.24306,
+"cout_erreur": 0.08503,
+"ev": {
+"double": 0.24306,
+"hit": 0.15803,
+"stand": -0.16719
+},
+"p_crever_croupier": 0.4164,
+"p_crever_joueur": 0,
+"second": "hit"
+},
+"9-vs-6": {
+"best": "double",
+"best_ev": 0.31705,
+"cout_erreur": 0.12104,
+"ev": {
+"double": 0.31705,
+"hit": 0.19602,
+"stand": -0.1537
+},
+"p_crever_croupier": 0.42315,
+"p_crever_joueur": 0,
+"second": "hit"
+},
+"9-vs-7": {
+"best": "hit",
+"best_ev": 0.17187,
+"cout_erreur": 0.06762,
+"ev": {
+"double": 0.10425,
+"hit": 0.17187,
+"stand": -0.47538
+},
+"p_crever_croupier": 0.26231,
+"p_crever_joueur": 0,
+"second": "double"
+},
+"9-vs-8": {
+"best": "hit",
+"best_ev": 0.09838,
+"cout_erreur": 0.12482,
+"ev": {
+"double": -0.02644,
+"hit": 0.09838,
+"stand": -0.51052
+},
+"p_crever_croupier": 0.24474,
+"p_crever_joueur": 0,
+"second": "double"
+},
+"9-vs-9": {
+"best": "hit",
+"best_ev": -0.05218,
+"cout_erreur": 0.24882,
+"ev": {
+"double": -0.301,
+"hit": -0.05218,
+"stand": -0.54315
+},
+"p_crever_croupier": 0.22843,
+"p_crever_joueur": 0,
+"second": "double"
+},
+"9-vs-a": {
+"best": "hit",
+"best_ev": -0.06568,
+"cout_erreur": 0.36723,
+"ev": {
+"double": -0.43291,
+"hit": -0.06568,
+"stand": -0.66695
+},
+"p_crever_croupier": 0.16652,
+"p_crever_joueur": 0,
+"second": "double"
+},
+"pair-10s-vs-10": {
+"best": "stand",
+"best_ev": 0.55454,
+"cout_erreur": 0.50392,
+"ev": {
+"double": -1.69806,
+"hit": -0.84903,
+"split": 0.05062,
+"stand": 0.55454
+},
+"p_crever_croupier": 0.22978,
+"p_crever_joueur": 0.92308,
+"second": "split"
+},
+"pair-10s-vs-2": {
+"best": "stand",
+"best_ev": 0.63999,
+"cout_erreur": 0.27499,
+"ev": {
+"double": -1.71046,
+"hit": -0.85523,
+"split": 0.365,
+"stand": 0.63999
+},
+"p_crever_croupier": 0.35361,
+"p_crever_joueur": 0.92308,
+"second": "split"
+},
+"pair-10s-vs-3": {
+"best": "stand",
+"best_ev": 0.65027,
+"cout_erreur": 0.2381,
+"ev": {
+"double": -1.70995,
+"hit": -0.85498,
+"split": 0.41218,
+"stand": 0.65027
+},
+"p_crever_croupier": 0.37387,
+"p_crever_joueur": 0.92308,
+"second": "split"
+},
+"pair-10s-vs-4": {
+"best": "stand",
+"best_ev": 0.66105,
+"cout_erreur": 0.20011,
+"ev": {
+"double": -1.70942,
+"hit": -0.85471,
+"split": 0.46094,
+"stand": 0.66105
+},
+"p_crever_croupier": 0.39447,
+"p_crever_joueur": 0.92308,
+"second": "split"
+},
+"pair-10s-vs-5": {
+"best": "stand",
+"best_ev": 0.67036,
+"cout_erreur": 0.15784,
+"ev": {
+"double": -1.70896,
+"hit": -0.85448,
+"split": 0.51252,
+"stand": 0.67036
+},
+"p_crever_croupier": 0.4164,
+"p_crever_joueur": 0.92308,
+"second": "split"
+},
+"pair-10s-vs-6": {
+"best": "stand",
+"best_ev": 0.70396,
+"cout_erreur": 0.12837,
+"ev": {
+"double": -1.70726,
+"hit": -0.85363,
+"split": 0.57559,
+"stand": 0.70396
+},
+"p_crever_croupier": 0.42315,
+"p_crever_joueur": 0.92308,
+"second": "split"
+},
+"pair-10s-vs-7": {
+"best": "stand",
+"best_ev": 0.77323,
+"cout_erreur": 0.25941,
+"ev": {
+"double": -1.7037,
+"hit": -0.85185,
+"split": 0.51382,
+"stand": 0.77323
+},
+"p_crever_croupier": 0.26231,
+"p_crever_joueur": 0.92308,
+"second": "split"
+},
+"pair-10s-vs-8": {
+"best": "stand",
+"best_ev": 0.79182,
+"cout_erreur": 0.39591,
+"ev": {
+"double": -1.70298,
+"hit": -0.85149,
+"split": 0.39591,
+"stand": 0.79182
+},
+"p_crever_croupier": 0.24474,
+"p_crever_joueur": 0.92308,
+"second": "split"
+},
+"pair-10s-vs-9": {
+"best": "stand",
+"best_ev": 0.75836,
+"cout_erreur": 0.5253,
+"ev": {
+"double": -1.70167,
+"hit": -0.85083,
+"split": 0.23306,
+"stand": 0.75836
+},
+"p_crever_croupier": 0.22843,
+"p_crever_joueur": 0.92308,
+"second": "split"
+},
+"pair-10s-vs-a": {
+"best": "stand",
+"best_ev": 0.65547,
+"cout_erreur": 0.49257,
+"ev": {
+"double": -1.70428,
+"hit": -0.85214,
+"split": 0.1629,
+"stand": 0.65547
+},
+"p_crever_croupier": 0.16652,
+"p_crever_joueur": 0.92308,
+"second": "split"
+},
+"pair-2s-vs-10": {
+"best": "hit",
+"best_ev": -0.2892,
+"cout_erreur": 0.18554,
+"ev": {
+"double": -1.08086,
+"hit": -0.2892,
+"split": -0.47473,
+"stand": -0.54043
+},
+"p_crever_croupier": 0.22978,
+"p_crever_joueur": 0,
+"second": "split"
+},
+"pair-2s-vs-2": {
+"best": "split",
+"best_ev": -0.08889,
+"cout_erreur": 0.02603,
+"ev": {
+"double": -0.58557,
+"hit": -0.11491,
+"split": -0.08889,
+"stand": -0.29278
+},
+"p_crever_croupier": 0.35361,
+"p_crever_joueur": 0,
+"second": "hit"
+},
+"pair-2s-vs-3": {
+"best": "split",
+"best_ev": -0.02562,
+"cout_erreur": 0.057,
+"ev": {
+"double": -0.5045,
+"hit": -0.08261,
+"split": -0.02562,
+"stand": -0.25225
+},
+"p_crever_croupier": 0.37387,
+"p_crever_joueur": 0,
+"second": "hit"
+},
+"pair-2s-vs-4": {
+"best": "split",
+"best_ev": 0.04295,
+"cout_erreur": 0.09231,
+"ev": {
+"double": -0.42213,
+"hit": -0.04937,
+"split": 0.04295,
+"stand": -0.21106
+},
+"p_crever_croupier": 0.39447,
+"p_crever_joueur": 0,
+"second": "hit"
+},
+"pair-2s-vs-5": {
+"best": "split",
+"best_ev": 0.12725,
+"cout_erreur": 0.13963,
+"ev": {
+"double": -0.33439,
+"hit": -0.01238,
+"split": 0.12725,
+"stand": -0.16719
+},
+"p_crever_croupier": 0.4164,
+"p_crever_joueur": 0,
+"second": "hit"
+},
+"pair-2s-vs-6": {
+"best": "split",
+"best_ev": 0.19478,
+"cout_erreur": 0.18365,
+"ev": {
+"double": -0.3074,
+"hit": 0.01113,
+"split": 0.19478,
+"stand": -0.1537
+},
+"p_crever_croupier": 0.42315,
+"p_crever_joueur": 0,
+"second": "hit"
+},
+"pair-2s-vs-7": {
+"best": "split",
+"best_ev": -0.0074,
+"cout_erreur": 0.08088,
+"ev": {
+"double": -0.95075,
+"hit": -0.08828,
+"split": -0.0074,
+"stand": -0.47538
+},
+"p_crever_croupier": 0.26231,
+"p_crever_joueur": 0,
+"second": "hit"
+},
+"pair-2s-vs-8": {
+"best": "hit",
+"best_ev": -0.15933,
+"cout_erreur": 0.01478,
+"ev": {
+"double": -1.02104,
+"hit": -0.15933,
+"split": -0.17411,
+"stand": -0.51052
+},
+"p_crever_croupier": 0.24474,
+"p_crever_joueur": 0,
+"second": "split"
+},
+"pair-2s-vs-9": {
+"best": "hit",
+"best_ev": -0.24067,
+"cout_erreur": 0.12446,
+"ev": {
+"double": -1.0863,
+"hit": -0.24067,
+"split": -0.36512,
+"stand": -0.54315
+},
+"p_crever_croupier": 0.22843,
+"p_crever_joueur": 0,
+"second": "split"
+},
+"pair-2s-vs-a": {
+"best": "hit",
+"best_ev": -0.25308,
+"cout_erreur": 0.15363,
+"ev": {
+"double": -1.3339,
+"hit": -0.25308,
+"split": -0.40671,
+"stand": -0.66695
+},
+"p_crever_croupier": 0.16652,
+"p_crever_joueur": 0,
+"second": "split"
+},
+"pair-3s-vs-10": {
+"best": "hit",
+"best_ev": -0.33775,
+"cout_erreur": 0.18365,
+"ev": {
+"double": -1.06229,
+"hit": -0.33775,
+"split": -0.5214,
+"stand": -0.54043
+},
+"p_crever_croupier": 0.22978,
+"p_crever_joueur": 0,
+"second": "split"
+},
+"pair-3s-vs-2": {
+"best": "split",
+"best_ev": -0.13816,
+"cout_erreur": 0.0026,
+"ev": {
+"double": -0.56406,
+"hit": -0.14076,
+"split": -0.13816,
+"stand": -0.29278
+},
+"p_crever_croupier": 0.35361,
+"p_crever_joueur": 0,
+"second": "hit"
+},
+"pair-3s-vs-3": {
+"best": "split",
+"best_ev": -0.06387,
+"cout_erreur": 0.04342,
+"ev": {
+"double": -0.48373,
+"hit": -0.10729,
+"split": -0.06387,
+"stand": -0.25225
+},
+"p_crever_croupier": 0.37387,
+"p_crever_joueur": 0,
+"second": "hit"
+},
+"pair-3s-vs-4": {
+"best": "split",
+"best_ev": 0.01462,
+"cout_erreur": 0.08754,
+"ev": {
+"double": -0.40205,
+"hit": -0.07292,
+"split": 0.01462,
+"stand": -0.21106
+},
+"p_crever_croupier": 0.39447,
+"p_crever_joueur": 0,
+"second": "hit"
+},
+"pair-3s-vs-5": {
+"best": "split",
+"best_ev": 0.10229,
+"cout_erreur": 0.13721,
+"ev": {
+"double": -0.31558,
+"hit": -0.03492,
+"split": 0.10229,
+"stand": -0.16719
+},
+"p_crever_croupier": 0.4164,
+"p_crever_joueur": 0,
+"second": "hit"
+},
+"pair-3s-vs-6": {
+"best": "split",
+"best_ev": 0.16942,
+"cout_erreur": 0.18243,
+"ev": {
+"double": -0.28195,
+"hit": -0.01301,
+"split": 0.16942,
+"stand": -0.1537
+},
+"p_crever_croupier": 0.42315,
+"p_crever_joueur": 0,
+"second": "hit"
+},
+"pair-3s-vs-7": {
+"best": "split",
+"best_ev": -0.06776,
+"cout_erreur": 0.08417,
+"ev": {
+"double": -0.89405,
+"hit": -0.15193,
+"split": -0.06776,
+"stand": -0.47538
+},
+"p_crever_croupier": 0.26231,
+"p_crever_joueur": 0,
+"second": "hit"
+},
+"pair-3s-vs-8": {
+"best": "hit",
+"best_ev": -0.21724,
+"cout_erreur": 0.01243,
+"ev": {
+"double": -1.00126,
+"hit": -0.21724,
+"split": -0.22967,
+"stand": -0.51052
+},
+"p_crever_croupier": 0.24474,
+"p_crever_joueur": 0,
+"second": "split"
+},
+"pair-3s-vs-9": {
+"best": "hit",
+"best_ev": -0.29264,
+"cout_erreur": 0.12254,
+"ev": {
+"double": -1.06784,
+"hit": -0.29264,
+"split": -0.41518,
+"stand": -0.54315
+},
+"p_crever_croupier": 0.22843,
+"p_crever_joueur": 0,
+"second": "split"
+},
+"pair-3s-vs-a": {
+"best": "hit",
+"best_ev": -0.30415,
+"cout_erreur": 0.15173,
+"ev": {
+"double": -1.30484,
+"hit": -0.30415,
+"split": -0.45587,
+"stand": -0.66695
+},
+"p_crever_croupier": 0.16652,
+"p_crever_joueur": 0,
+"second": "split"
+},
+"pair-4s-vs-10": {
+"best": "hit",
+"best_ev": -0.24938,
+"cout_erreur": 0.29106,
+"ev": {
+"double": -0.74659,
+"hit": -0.24938,
+"split": -0.56913,
+"stand": -0.54043
+},
+"p_crever_croupier": 0.22978,
+"p_crever_joueur": 0,
+"second": "stand"
+},
+"pair-4s-vs-2": {
+"best": "hit",
+"best_ev": -0.0218,
+"cout_erreur": 0.14515,
+"ev": {
+"double": -0.20449,
+"hit": -0.0218,
+"split": -0.16695,
+"stand": -0.29278
+},
+"p_crever_croupier": 0.35361,
+"p_crever_joueur": 0,
+"second": "split"
+},
+"pair-4s-vs-3": {
+"best": "hit",
+"best_ev": 0.00801,
+"cout_erreur": 0.09935,
+"ev": {
+"double": -0.13622,
+"hit": 0.00801,
+"split": -0.09134,
+"stand": -0.25225
+},
+"p_crever_croupier": 0.37387,
+"p_crever_joueur": 0,
+"second": "split"
+},
+"pair-4s-vs-4": {
+"best": "hit",
+"best_ev": 0.03878,
+"cout_erreur": 0.05037,
+"ev": {
+"double": -0.06637,
+"hit": 0.03878,
+"split": -0.01159,
+"stand": -0.21106
+},
+"p_crever_croupier": 0.39447,
+"p_crever_joueur": 0,
+"second": "split"
+},
+"pair-4s-vs-5": {
+"best": "split",
+"best_ev": 0.08026,
+"cout_erreur": 0.00946,
+"ev": {
+"double": 0.00346,
+"hit": 0.0708,
+"split": 0.08026,
+"stand": -0.16719
+},
+"p_crever_croupier": 0.4164,
+"p_crever_joueur": 0,
+"second": "hit"
+},
+"pair-4s-vs-6": {
+"best": "split",
+"best_ev": 0.14596,
+"cout_erreur": 0.031,
+"ev": {
+"double": 0.08702,
+"hit": 0.11496,
+"split": 0.14596,
+"stand": -0.1537
+},
+"p_crever_croupier": 0.42315,
+"p_crever_joueur": 0,
+"second": "hit"
+},
+"pair-4s-vs-7": {
+"best": "hit",
+"best_ev": 0.08221,
+"cout_erreur": 0.21165,
+"ev": {
+"double": -0.18773,
+"hit": 0.08221,
+"split": -0.12944,
+"stand": -0.47538
+},
+"p_crever_croupier": 0.26231,
+"p_crever_joueur": 0,
+"second": "split"
+},
+"pair-4s-vs-8": {
+"best": "hit",
+"best_ev": -0.0599,
+"cout_erreur": 0.22656,
+"ev": {
+"double": -0.45199,
+"hit": -0.0599,
+"split": -0.28645,
+"stand": -0.51052
+},
+"p_crever_croupier": 0.24474,
+"p_crever_joueur": 0,
+"second": "split"
+},
+"pair-4s-vs-9": {
+"best": "hit",
+"best_ev": -0.21019,
+"cout_erreur": 0.25617,
+"ev": {
+"double": -0.7185,
+"hit": -0.21019,
+"split": -0.46636,
+"stand": -0.54315
+},
+"p_crever_croupier": 0.22843,
+"p_crever_joueur": 0,
+"second": "split"
+},
+"pair-4s-vs-a": {
+"best": "hit",
+"best_ev": -0.19703,
+"cout_erreur": 0.30913,
+"ev": {
+"double": -0.81075,
+"hit": -0.19703,
+"split": -0.50615,
+"stand": -0.66695
+},
+"p_crever_croupier": 0.16652,
+"p_crever_joueur": 0,
+"second": "split"
+},
+"pair-5s-vs-10": {
+"best": "hit",
+"best_ev": 0.02531,
+"cout_erreur": 0.03397,
+"ev": {
+"double": -0.00866,
+"hit": 0.02531,
+"split": -0.61756,
+"stand": -0.54043
+},
+"p_crever_croupier": 0.22978,
+"p_crever_joueur": 0,
+"second": "double"
+},
+"pair-5s-vs-2": {
+"best": "double",
+"best_ev": 0.35894,
+"cout_erreur": 0.17644,
+"ev": {
+"double": 0.35894,
+"hit": 0.1825,
+"split": -0.19355,
+"stand": -0.29278
+},
+"p_crever_croupier": 0.35361,
+"p_crever_joueur": 0,
+"second": "hit"
+},
+"pair-5s-vs-3": {
+"best": "double",
+"best_ev": 0.40932,
+"cout_erreur": 0.20323,
+"ev": {
+"double": 0.40932,
+"hit": 0.20609,
+"split": -0.11674,
+"stand": -0.25225
+},
+"p_crever_croupier": 0.37387,
+"p_crever_joueur": 0,
+"second": "hit"
+},
+"pair-5s-vs-4": {
+"best": "double",
+"best_ev": 0.46094,
+"cout_erreur": 0.23047,
+"ev": {
+"double": 0.46094,
+"hit": 0.23047,
+"split": -0.03297,
+"stand": -0.21106
+},
+"p_crever_croupier": 0.39447,
+"p_crever_joueur": 0,
+"second": "hit"
+},
+"pair-5s-vs-5": {
+"best": "double",
+"best_ev": 0.51252,
+"cout_erreur": 0.25626,
+"ev": {
+"double": 0.51252,
+"hit": 0.25626,
+"split": 0.05991,
+"stand": -0.16719
+},
+"p_crever_croupier": 0.4164,
+"p_crever_joueur": 0,
+"second": "hit"
+},
+"pair-5s-vs-6": {
+"best": "double",
+"best_ev": 0.57559,
+"cout_erreur": 0.2878,
+"ev": {
+"double": 0.57559,
+"hit": 0.2878,
+"split": 0.12431,
+"stand": -0.1537
+},
+"p_crever_croupier": 0.42315,
+"p_crever_joueur": 0,
+"second": "hit"
+},
+"pair-5s-vs-7": {
+"best": "double",
+"best_ev": 0.39241,
+"cout_erreur": 0.1355,
+"ev": {
+"double": 0.39241,
+"hit": 0.25691,
+"split": -0.19178,
+"stand": -0.47538
+},
+"p_crever_croupier": 0.26231,
+"p_crever_joueur": 0,
+"second": "hit"
+},
+"pair-5s-vs-8": {
+"best": "double",
+"best_ev": 0.28664,
+"cout_erreur": 0.08868,
+"ev": {
+"double": 0.28664,
+"hit": 0.19795,
+"split": -0.34397,
+"stand": -0.51052
+},
+"p_crever_croupier": 0.24474,
+"p_crever_joueur": 0,
+"second": "hit"
+},
+"pair-5s-vs-9": {
+"best": "double",
+"best_ev": 0.14433,
+"cout_erreur": 0.0278,
+"ev": {
+"double": 0.14433,
+"hit": 0.11653,
+"split": -0.51826,
+"stand": -0.54315
+},
+"p_crever_croupier": 0.22843,
+"p_crever_joueur": 0,
+"second": "hit"
+},
+"pair-5s-vs-a": {
+"best": "hit",
+"best_ev": 0.08145,
+"cout_erreur": 0.09549,
+"ev": {
+"double": -0.01404,
+"hit": 0.08145,
+"split": -0.55715,
+"stand": -0.66695
+},
+"p_crever_croupier": 0.16652,
+"p_crever_joueur": 0,
+"second": "double"
+},
+"pair-6s-vs-10": {
+"best": "hit",
+"best_ev": -0.38104,
+"cout_erreur": 0.15939,
+"ev": {
+"double": -0.79684,
+"hit": -0.38104,
+"split": -0.66624,
+"stand": -0.54043
+},
+"p_crever_croupier": 0.22978,
+"p_crever_joueur": 0.30769,
+"second": "stand"
+},
+"pair-6s-vs-2": {
+"best": "split",
+"best_ev": -0.21864,
+"cout_erreur": 0.03475,
+"ev": {
+"double": -0.50678,
+"hit": -0.25339,
+"split": -0.21864,
+"stand": -0.29278
+},
+"p_crever_croupier": 0.35361,
+"p_crever_joueur": 0.30769,
+"second": "hit"
+},
+"pair-6s-vs-3": {
+"best": "split",
+"best_ev": -0.13668,
+"cout_erreur": 0.09701,
+"ev": {
+"double": -0.46738,
+"hit": -0.23369,
+"split": -0.13668,
+"stand": -0.25225
+},
+"p_crever_croupier": 0.37387,
+"p_crever_joueur": 0.30769,
+"second": "hit"
+},
+"pair-6s-vs-4": {
+"best": "split",
+"best_ev": -0.04956,
+"cout_erreur": 0.1615,
+"ev": {
+"double": -0.42707,
+"hit": -0.21354,
+"split": -0.04956,
+"stand": -0.21106
+},
+"p_crever_croupier": 0.39447,
+"p_crever_joueur": 0.30769,
+"second": "stand"
+},
+"pair-6s-vs-5": {
+"best": "split",
+"best_ev": 0.04399,
+"cout_erreur": 0.21118,
+"ev": {
+"double": -0.38654,
+"hit": -0.19327,
+"split": 0.04399,
+"stand": -0.16719
+},
+"p_crever_croupier": 0.4164,
+"p_crever_joueur": 0.30769,
+"second": "stand"
+},
+"pair-6s-vs-6": {
+"best": "split",
+"best_ev": 0.10792,
+"cout_erreur": 0.26162,
+"ev": {
+"double": -0.34105,
+"hit": -0.17053,
+"split": 0.10792,
+"stand": -0.1537
+},
+"p_crever_croupier": 0.42315,
+"p_crever_joueur": 0.30769,
+"second": "stand"
+},
+"pair-6s-vs-7": {
+"best": "hit",
+"best_ev": -0.21285,
+"cout_erreur": 0.0439,
+"ev": {
+"double": -0.50671,
+"hit": -0.21285,
+"split": -0.25675,
+"stand": -0.47538
+},
+"p_crever_croupier": 0.26231,
+"p_crever_joueur": 0.30769,
+"second": "split"
+},
+"pair-6s-vs-8": {
+"best": "hit",
+"best_ev": -0.27157,
+"cout_erreur": 0.13069,
+"ev": {
+"double": -0.61566,
+"hit": -0.27157,
+"split": -0.40227,
+"stand": -0.51052
+},
+"p_crever_croupier": 0.24474,
+"p_crever_joueur": 0.30769,
+"second": "split"
+},
+"pair-6s-vs-9": {
+"best": "hit",
+"best_ev": -0.34001,
+"cout_erreur": 0.20314,
+"ev": {
+"double": -0.73751,
+"hit": -0.34001,
+"split": -0.57031,
+"stand": -0.54315
+},
+"p_crever_croupier": 0.22843,
+"p_crever_joueur": 0.30769,
+"second": "stand"
+},
+"pair-6s-vs-a": {
+"best": "hit",
+"best_ev": -0.35054,
+"cout_erreur": 0.25775,
+"ev": {
+"double": -0.82934,
+"hit": -0.35054,
+"split": -0.60829,
+"stand": -0.66695
+},
+"p_crever_croupier": 0.16652,
+"p_crever_joueur": 0.30769,
+"second": "split"
+},
+"pair-7s-vs-10": {
+"best": "hit",
+"best_ev": -0.46631,
+"cout_erreur": 0.07412,
+"ev": {
+"double": -0.93825,
+"hit": -0.46631,
+"split": -0.62885,
+"stand": -0.54043
+},
+"p_crever_croupier": 0.22978,
+"p_crever_joueur": 0.46154,
+"second": "stand"
+},
+"pair-7s-vs-2": {
+"best": "split",
+"best_ev": -0.15549,
+"cout_erreur": 0.1373,
+"ev": {
+"double": -0.72438,
+"hit": -0.36219,
+"split": -0.15549,
+"stand": -0.29278
+},
+"p_crever_croupier": 0.35361,
+"p_crever_joueur": 0.46154,
+"second": "stand"
+},
+"pair-7s-vs-3": {
+"best": "split",
+"best_ev": -0.07477,
+"cout_erreur": 0.17748,
+"ev": {
+"double": -0.69746,
+"hit": -0.34873,
+"split": -0.07477,
+"stand": -0.25225
+},
+"p_crever_croupier": 0.37387,
+"p_crever_joueur": 0.46154,
+"second": "stand"
+},
+"pair-7s-vs-4": {
+"best": "split",
+"best_ev": 0.01051,
+"cout_erreur": 0.22157,
+"ev": {
+"double": -0.66982,
+"hit": -0.33491,
+"split": 0.01051,
+"stand": -0.21106
+},
+"p_crever_croupier": 0.39447,
+"p_crever_joueur": 0.46154,
+"second": "stand"
+},
+"pair-7s-vs-5": {
+"best": "split",
+"best_ev": 0.09996,
+"cout_erreur": 0.26716,
+"ev": {
+"double": -0.64279,
+"hit": -0.3214,
+"split": 0.09996,
+"stand": -0.16719
+},
+"p_crever_croupier": 0.4164,
+"p_crever_joueur": 0.46154,
+"second": "stand"
+},
+"pair-7s-vs-6": {
+"best": "split",
+"best_ev": 0.18769,
+"cout_erreur": 0.34139,
+"ev": {
+"double": -0.60145,
+"hit": -0.30073,
+"split": 0.18769,
+"stand": -0.1537
+},
+"p_crever_croupier": 0.42315,
+"p_crever_joueur": 0.46154,
+"second": "stand"
+},
+"pair-7s-vs-7": {
+"best": "split",
+"best_ev": -0.0905,
+"cout_erreur": 0.23078,
+"ev": {
+"double": -0.66813,
+"hit": -0.32128,
+"split": -0.0905,
+"stand": -0.47538
+},
+"p_crever_croupier": 0.26231,
+"p_crever_joueur": 0.46154,
+"second": "hit"
+},
+"pair-7s-vs-8": {
+"best": "hit",
+"best_ev": -0.37192,
+"cout_erreur": 0.01708,
+"ev": {
+"double": -0.76627,
+"hit": -0.37192,
+"split": -0.389,
+"stand": -0.51052
+},
+"p_crever_croupier": 0.24474,
+"p_crever_joueur": 0.46154,
+"second": "split"
+},
+"pair-7s-vs-9": {
+"best": "hit",
+"best_ev": -0.43093,
+"cout_erreur": 0.11222,
+"ev": {
+"double": -0.87807,
+"hit": -0.43093,
+"split": -0.55576,
+"stand": -0.54315
+},
+"p_crever_croupier": 0.22843,
+"p_crever_joueur": 0.46154,
+"second": "stand"
+},
+"pair-7s-vs-a": {
+"best": "hit",
+"best_ev": -0.44001,
+"cout_erreur": 0.18014,
+"ev": {
+"double": -0.93182,
+"hit": -0.44001,
+"split": -0.62014,
+"stand": -0.66695
+},
+"p_crever_croupier": 0.16652,
+"p_crever_joueur": 0.46154,
+"second": "split"
+},
+"pair-8s-vs-10": {
+"best": "split",
+"best_ev": -0.48949,
+"cout_erreur": 0.05034,
+"ev": {
+"double": -1.07965,
+"hit": -0.53983,
+"split": -0.48949,
+"stand": -0.54043
+},
+"p_crever_croupier": 0.22978,
+"p_crever_joueur": 0.61538,
+"second": "hit"
+},
+"pair-8s-vs-2": {
+"best": "split",
+"best_ev": 0.01929,
+"cout_erreur": 0.31207,
+"ev": {
+"double": -0.94199,
+"hit": -0.47099,
+"split": 0.01929,
+"stand": -0.29278
+},
+"p_crever_croupier": 0.35361,
+"p_crever_joueur": 0.61538,
+"second": "stand"
+},
+"pair-8s-vs-3": {
+"best": "split",
+"best_ev": 0.08689,
+"cout_erreur": 0.33914,
+"ev": {
+"double": -0.92754,
+"hit": -0.46377,
+"split": 0.08689,
+"stand": -0.25225
+},
+"p_crever_croupier": 0.37387,
+"p_crever_joueur": 0.61538,
+"second": "stand"
+},
+"pair-8s-vs-4": {
+"best": "split",
+"best_ev": 0.15657,
+"cout_erreur": 0.36763,
+"ev": {
+"double": -0.91257,
+"hit": -0.45629,
+"split": 0.15657,
+"stand": -0.21106
+},
+"p_crever_croupier": 0.39447,
+"p_crever_joueur": 0.61538,
+"second": "stand"
+},
+"pair-8s-vs-5": {
+"best": "split",
+"best_ev": 0.22832,
+"cout_erreur": 0.39551,
+"ev": {
+"double": -0.89904,
+"hit": -0.44952,
+"split": 0.22832,
+"stand": -0.16719
+},
+"p_crever_croupier": 0.4164,
+"p_crever_joueur": 0.61538,
+"second": "stand"
+},
+"pair-8s-vs-6": {
+"best": "split",
+"best_ev": 0.32553,
+"cout_erreur": 0.47923,
+"ev": {
+"double": -0.86185,
+"hit": -0.43093,
+"split": 0.32553,
+"stand": -0.1537
+},
+"p_crever_croupier": 0.42315,
+"p_crever_joueur": 0.61538,
+"second": "stand"
+},
+"pair-8s-vs-7": {
+"best": "split",
+"best_ev": 0.21153,
+"cout_erreur": 0.62631,
+"ev": {
+"double": -0.82956,
+"hit": -0.41478,
+"split": 0.21153,
+"stand": -0.47538
+},
+"p_crever_croupier": 0.26231,
+"p_crever_joueur": 0.61538,
+"second": "hit"
+},
+"pair-8s-vs-8": {
+"best": "split",
+"best_ev": -0.08758,
+"cout_erreur": 0.37086,
+"ev": {
+"double": -0.91688,
+"hit": -0.45844,
+"split": -0.08758,
+"stand": -0.51052
+},
+"p_crever_croupier": 0.24474,
+"p_crever_joueur": 0.61538,
+"second": "hit"
+},
+"pair-8s-vs-9": {
+"best": "split",
+"best_ev": -0.4054,
+"cout_erreur": 0.10392,
+"ev": {
+"double": -1.01864,
+"hit": -0.50932,
+"split": -0.4054,
+"stand": -0.54315
+},
+"p_crever_croupier": 0.22843,
+"p_crever_joueur": 0.61538,
+"second": "hit"
+},
+"pair-8s-vs-a": {
+"best": "split",
+"best_ev": -0.39406,
+"cout_erreur": 0.12309,
+"ev": {
+"double": -1.0343,
+"hit": -0.51715,
+"split": -0.39406,
+"stand": -0.66695
+},
+"p_crever_croupier": 0.16652,
+"p_crever_joueur": 0.61538,
+"second": "hit"
+},
+"pair-9s-vs-10": {
+"best": "stand",
+"best_ev": -0.1783,
+"cout_erreur": 0.11834,
+"ev": {
+"double": -1.29534,
+"hit": -0.64767,
+"split": -0.29664,
+"stand": -0.1783
+},
+"p_crever_croupier": 0.22978,
+"p_crever_joueur": 0.76923,
+"second": "split"
+},
+"pair-9s-vs-2": {
+"best": "split",
+"best_ev": 0.18463,
+"cout_erreur": 0.06289,
+"ev": {
+"double": -1.24488,
+"hit": -0.62244,
+"split": 0.18463,
+"stand": 0.12174
+},
+"p_crever_croupier": 0.35361,
+"p_crever_joueur": 0.76923,
+"second": "stand"
+},
+"pair-9s-vs-3": {
+"best": "split",
+"best_ev": 0.24214,
+"cout_erreur": 0.09384,
+"ev": {
+"double": -1.24001,
+"hit": -0.62,
+"split": 0.24214,
+"stand": 0.1483
+},
+"p_crever_croupier": 0.37387,
+"p_crever_joueur": 0.76923,
+"second": "stand"
+},
+"pair-9s-vs-4": {
+"best": "split",
+"best_ev": 0.3015,
+"cout_erreur": 0.12565,
+"ev": {
+"double": -1.23492,
+"hit": -0.61746,
+"split": 0.3015,
+"stand": 0.17585
+},
+"p_crever_croupier": 0.39447,
+"p_crever_joueur": 0.76923,
+"second": "stand"
+},
+"pair-9s-vs-5": {
+"best": "split",
+"best_ev": 0.36335,
+"cout_erreur": 0.16379,
+"ev": {
+"double": -1.23052,
+"hit": -0.61526,
+"split": 0.36335,
+"stand": 0.19956
+},
+"p_crever_croupier": 0.4164,
+"p_crever_joueur": 0.76923,
+"second": "stand"
+},
+"pair-9s-vs-6": {
+"best": "split",
+"best_ev": 0.44337,
+"cout_erreur": 0.15993,
+"ev": {
+"double": -1.21496,
+"hit": -0.60748,
+"split": 0.44337,
+"stand": 0.28344
+},
+"p_crever_croupier": 0.42315,
+"p_crever_joueur": 0.76923,
+"second": "stand"
+},
+"pair-9s-vs-7": {
+"best": "stand",
+"best_ev": 0.39955,
+"cout_erreur": 0.02955,
+"ev": {
+"double": -1.18229,
+"hit": -0.59114,
+"split": 0.37,
+"stand": 0.39955
+},
+"p_crever_croupier": 0.26231,
+"p_crever_joueur": 0.76923,
+"second": "split"
+},
+"pair-9s-vs-8": {
+"best": "split",
+"best_ev": 0.21532,
+"cout_erreur": 0.10937,
+"ev": {
+"double": -1.18211,
+"hit": -0.59106,
+"split": 0.21532,
+"stand": 0.10595
+},
+"p_crever_croupier": 0.24474,
+"p_crever_joueur": 0.76923,
+"second": "stand"
+},
+"pair-9s-vs-9": {
+"best": "split",
+"best_ev": -0.09366,
+"cout_erreur": 0.0895,
+"ev": {
+"double": -1.23306,
+"hit": -0.61653,
+"split": -0.09366,
+"stand": -0.18316
+},
+"p_crever_croupier": 0.22843,
+"p_crever_joueur": 0.76923,
+"second": "stand"
+},
+"pair-9s-vs-a": {
+"best": "stand",
+"best_ev": -0.1002,
+"cout_erreur": 0.03116,
+"ev": {
+"double": -1.25303,
+"hit": -0.62652,
+"split": -0.13136,
+"stand": -0.1002
+},
+"p_crever_croupier": 0.16652,
+"p_crever_joueur": 0.76923,
+"second": "split"
+},
+"pair-aces-vs-10": {
+"best": "split",
+"best_ev": 0.17969,
+"cout_erreur": 0.24969,
+"ev": {
+"double": -0.51403,
+"hit": -0.07,
+"split": 0.17969,
+"stand": -0.54043
+},
+"p_crever_croupier": 0.22978,
+"p_crever_joueur": 0,
+"second": "hit"
+},
+"pair-aces-vs-2": {
+"best": "split",
+"best_ev": 0.47064,
+"cout_erreur": 0.3888,
+"ev": {
+"double": -0.07157,
+"hit": 0.08184,
+"split": 0.47064,
+"stand": -0.29278
+},
+"p_crever_croupier": 0.35361,
+"p_crever_joueur": 0,
+"second": "hit"
+},
+"pair-aces-vs-3": {
+"best": "split",
+"best_ev": 0.5178,
+"cout_erreur": 0.41429,
+"ev": {
+"double": -0.00723,
+"hit": 0.10351,
+"split": 0.5178,
+"stand": -0.25225
+},
+"p_crever_croupier": 0.37387,
+"p_crever_joueur": 0,
+"second": "hit"
+},
+"pair-aces-vs-4": {
+"best": "split",
+"best_ev": 0.56604,
+"cout_erreur": 0.43944,
+"ev": {
+"double": 0.05843,
+"hit": 0.1266,
+"split": 0.56604,
+"stand": -0.21106
+},
+"p_crever_croupier": 0.39447,
+"p_crever_joueur": 0,
+"second": "hit"
+},
+"pair-aces-vs-5": {
+"best": "split",
+"best_ev": 0.6147,
+"cout_erreur": 0.45822,
+"ev": {
+"double": 0.12595,
+"hit": 0.15648,
+"split": 0.6147,
+"stand": -0.16719
+},
+"p_crever_croupier": 0.4164,
+"p_crever_joueur": 0,
+"second": "hit"
+},
+"pair-aces-vs-6": {
+"best": "split",
+"best_ev": 0.66738,
+"cout_erreur": 0.48143,
+"ev": {
+"double": 0.17975,
+"hit": 0.18595,
+"split": 0.66738,
+"stand": -0.1537
+},
+"p_crever_croupier": 0.42315,
+"p_crever_joueur": 0,
+"second": "hit"
+},
+"pair-aces-vs-7": {
+"best": "split",
+"best_ev": 0.46289,
+"cout_erreur": 0.29742,
+"ev": {
+"double": -0.18387,
+"hit": 0.16547,
+"split": 0.46289,
+"stand": -0.47538
+},
+"p_crever_croupier": 0.26231,
+"p_crever_joueur": 0,
+"second": "hit"
+},
+"pair-aces-vs-8": {
+"best": "split",
+"best_ev": 0.35069,
+"cout_erreur": 0.25558,
+"ev": {
+"double": -0.31444,
+"hit": 0.09512,
+"split": 0.35069,
+"stand": -0.51052
+},
+"p_crever_croupier": 0.24474,
+"p_crever_joueur": 0,
+"second": "hit"
+},
+"pair-aces-vs-9": {
+"best": "split",
+"best_ev": 0.22778,
+"cout_erreur": 0.22772,
+"ev": {
+"double": -0.45637,
+"hit": 7e-05,
+"split": 0.22778,
+"stand": -0.54315
+},
+"p_crever_croupier": 0.22843,
+"p_crever_joueur": 0,
+"second": "hit"
+},
+"pair-aces-vs-a": {
+"best": "split",
+"best_ev": 0.10906,
+"cout_erreur": 0.12954,
+"ev": {
+"double": -0.62439,
+"hit": -0.02048,
+"split": 0.10906,
+"stand": -0.66695
+},
+"p_crever_croupier": 0.16652,
+"p_crever_joueur": 0,
+"second": "hit"
+},
+"soft-13-vs-10": {
+"best": "hit",
+"best_ev": -0.10485,
+"cout_erreur": 0.40918,
+"ev": {
+"double": -0.51403,
+"hit": -0.10485,
+"stand": -0.54043
+},
+"p_crever_croupier": 0.22978,
+"p_crever_joueur": 0,
+"second": "double"
+},
+"soft-13-vs-2": {
+"best": "hit",
+"best_ev": 0.04664,
+"cout_erreur": 0.11821,
+"ev": {
+"double": -0.07157,
+"hit": 0.04664,
+"stand": -0.29278
+},
+"p_crever_croupier": 0.35361,
+"p_crever_joueur": 0,
+"second": "double"
+},
+"soft-13-vs-3": {
+"best": "hit",
+"best_ev": 0.07412,
+"cout_erreur": 0.08135,
+"ev": {
+"double": -0.00723,
+"hit": 0.07412,
+"stand": -0.25225
+},
+"p_crever_croupier": 0.37387,
+"p_crever_joueur": 0,
+"second": "double"
+},
+"soft-13-vs-4": {
+"best": "hit",
+"best_ev": 0.10248,
+"cout_erreur": 0.04405,
+"ev": {
+"double": 0.05843,
+"hit": 0.10248,
+"stand": -0.21106
+},
+"p_crever_croupier": 0.39447,
+"p_crever_joueur": 0,
+"second": "double"
+},
+"soft-13-vs-5": {
+"best": "hit",
+"best_ev": 0.13336,
+"cout_erreur": 0.00741,
+"ev": {
+"double": 0.12595,
+"hit": 0.13336,
+"stand": -0.16719
+},
+"p_crever_croupier": 0.4164,
+"p_crever_joueur": 0,
+"second": "double"
+},
+"soft-13-vs-6": {
+"best": "double",
+"best_ev": 0.17975,
+"cout_erreur": 0.01806,
+"ev": {
+"double": 0.17975,
+"hit": 0.16169,
+"stand": -0.1537
+},
+"p_crever_croupier": 0.42315,
+"p_crever_joueur": 0,
+"second": "hit"
+},
+"soft-13-vs-7": {
+"best": "hit",
+"best_ev": 0.12239,
+"cout_erreur": 0.30625,
+"ev": {
+"double": -0.18387,
+"hit": 0.12239,
+"stand": -0.47538
+},
+"p_crever_croupier": 0.26231,
+"p_crever_joueur": 0,
+"second": "double"
+},
+"soft-13-vs-8": {
+"best": "hit",
+"best_ev": 0.05406,
+"cout_erreur": 0.3685,
+"ev": {
+"double": -0.31444,
+"hit": 0.05406,
+"stand": -0.51052
+},
+"p_crever_croupier": 0.24474,
+"p_crever_joueur": 0,
+"second": "double"
+},
+"soft-13-vs-9": {
+"best": "hit",
+"best_ev": -0.03769,
+"cout_erreur": 0.41867,
+"ev": {
+"double": -0.45637,
+"hit": -0.03769,
+"stand": -0.54315
+},
+"p_crever_croupier": 0.22843,
+"p_crever_joueur": 0,
+"second": "double"
+},
+"soft-13-vs-a": {
+"best": "hit",
+"best_ev": -0.05731,
+"cout_erreur": 0.56708,
+"ev": {
+"double": -0.62439,
+"hit": -0.05731,
+"stand": -0.66695
+},
+"p_crever_croupier": 0.16652,
+"p_crever_joueur": 0,
+"second": "double"
+},
+"soft-14-vs-10": {
+"best": "hit",
+"best_ev": -0.13947,
+"cout_erreur": 0.37456,
+"ev": {
+"double": -0.51403,
+"hit": -0.13947,
+"stand": -0.54043
+},
+"p_crever_croupier": 0.22978,
+"p_crever_joueur": 0,
+"second": "double"
+},
+"soft-14-vs-2": {
+"best": "hit",
+"best_ev": 0.02239,
+"cout_erreur": 0.09396,
+"ev": {
+"double": -0.07157,
+"hit": 0.02239,
+"stand": -0.29278
+},
+"p_crever_croupier": 0.35361,
+"p_crever_joueur": 0,
+"second": "double"
+},
+"soft-14-vs-3": {
+"best": "hit",
+"best_ev": 0.05081,
+"cout_erreur": 0.05803,
+"ev": {
+"double": -0.00723,
+"hit": 0.05081,
+"stand": -0.25225
+},
+"p_crever_croupier": 0.37387,
+"p_crever_joueur": 0,
+"second": "double"
+},
+"soft-14-vs-4": {
+"best": "hit",
+"best_ev": 0.08008,
+"cout_erreur": 0.02165,
+"ev": {
+"double": 0.05843,
+"hit": 0.08008,
+"stand": -0.21106
+},
+"p_crever_croupier": 0.39447,
+"p_crever_joueur": 0,
+"second": "double"
+},
+"soft-14-vs-5": {
+"best": "double",
+"best_ev": 0.12595,
+"cout_erreur": 0.01406,
+"ev": {
+"double": 0.12595,
+"hit": 0.11189,
+"stand": -0.16719
+},
+"p_crever_croupier": 0.4164,
+"p_crever_joueur": 0,
+"second": "hit"
+},
+"soft-14-vs-6": {
+"best": "double",
+"best_ev": 0.17975,
+"cout_erreur": 0.04058,
+"ev": {
+"double": 0.17975,
+"hit": 0.13916,
+"stand": -0.1537
+},
+"p_crever_croupier": 0.42315,
+"p_crever_joueur": 0,
+"second": "hit"
+},
+"soft-14-vs-7": {
+"best": "hit",
+"best_ev": 0.07951,
+"cout_erreur": 0.26337,
+"ev": {
+"double": -0.18387,
+"hit": 0.07951,
+"stand": -0.47538
+},
+"p_crever_croupier": 0.26231,
+"p_crever_joueur": 0,
+"second": "double"
+},
+"soft-14-vs-8": {
+"best": "hit",
+"best_ev": 0.01328,
+"cout_erreur": 0.32772,
+"ev": {
+"double": -0.31444,
+"hit": 0.01328,
+"stand": -0.51052
+},
+"p_crever_croupier": 0.24474,
+"p_crever_joueur": 0,
+"second": "double"
+},
+"soft-14-vs-9": {
+"best": "hit",
+"best_ev": -0.07516,
+"cout_erreur": 0.3812,
+"ev": {
+"double": -0.45637,
+"hit": -0.07516,
+"stand": -0.54315
+},
+"p_crever_croupier": 0.22843,
+"p_crever_joueur": 0,
+"second": "double"
+},
+"soft-14-vs-a": {
+"best": "hit",
+"best_ev": -0.09387,
+"cout_erreur": 0.53052,
+"ev": {
+"double": -0.62439,
+"hit": -0.09387,
+"stand": -0.66695
+},
+"p_crever_croupier": 0.16652,
+"p_crever_joueur": 0,
+"second": "double"
+},
+"soft-15-vs-10": {
+"best": "hit",
+"best_ev": -0.1737,
+"cout_erreur": 0.34032,
+"ev": {
+"double": -0.51403,
+"hit": -0.1737,
+"stand": -0.54043
+},
+"p_crever_croupier": 0.22978,
+"p_crever_joueur": 0,
+"second": "double"
+},
+"soft-15-vs-2": {
+"best": "hit",
+"best_ev": -0.00012,
+"cout_erreur": 0.07145,
+"ev": {
+"double": -0.07157,
+"hit": -0.00012,
+"stand": -0.29278
+},
+"p_crever_croupier": 0.35361,
+"p_crever_joueur": 0,
+"second": "double"
+},
+"soft-15-vs-3": {
+"best": "hit",
+"best_ev": 0.02916,
+"cout_erreur": 0.03639,
+"ev": {
+"double": -0.00723,
+"hit": 0.02916,
+"stand": -0.25225
+},
+"p_crever_croupier": 0.37387,
+"p_crever_joueur": 0,
+"second": "double"
+},
+"soft-15-vs-4": {
+"best": "hit",
+"best_ev": 0.05929,
+"cout_erreur": 0.00086,
+"ev": {
+"double": 0.05843,
+"hit": 0.05929,
+"stand": -0.21106
+},
+"p_crever_croupier": 0.39447,
+"p_crever_joueur": 0,
+"second": "double"
+},
+"soft-15-vs-5": {
+"best": "double",
+"best_ev": 0.12595,
+"cout_erreur": 0.03399,
+"ev": {
+"double": 0.12595,
+"hit": 0.09196,
+"stand": -0.16719
+},
+"p_crever_croupier": 0.4164,
+"p_crever_joueur": 0,
+"second": "hit"
+},
+"soft-15-vs-6": {
+"best": "double",
+"best_ev": 0.17975,
+"cout_erreur": 0.0615,
+"ev": {
+"double": 0.17975,
+"hit": 0.11825,
+"stand": -0.1537
+},
+"p_crever_croupier": 0.42315,
+"p_crever_joueur": 0,
+"second": "hit"
+},
+"soft-15-vs-7": {
+"best": "hit",
+"best_ev": 0.03703,
+"cout_erreur": 0.22089,
+"ev": {
+"double": -0.18387,
+"hit": 0.03703,
+"stand": -0.47538
+},
+"p_crever_croupier": 0.26231,
+"p_crever_joueur": 0,
+"second": "double"
+},
+"soft-15-vs-8": {
+"best": "hit",
+"best_ev": -0.02705,
+"cout_erreur": 0.28739,
+"ev": {
+"double": -0.31444,
+"hit": -0.02705,
+"stand": -0.51052
+},
+"p_crever_croupier": 0.24474,
+"p_crever_joueur": 0,
+"second": "double"
+},
+"soft-15-vs-9": {
+"best": "hit",
+"best_ev": -0.11219,
+"cout_erreur": 0.34418,
+"ev": {
+"double": -0.45637,
+"hit": -0.11219,
+"stand": -0.54315
+},
+"p_crever_croupier": 0.22843,
+"p_crever_joueur": 0,
+"second": "double"
+},
+"soft-15-vs-a": {
+"best": "hit",
+"best_ev": -0.13003,
+"cout_erreur": 0.49436,
+"ev": {
+"double": -0.62439,
+"hit": -0.13003,
+"stand": -0.66695
+},
+"p_crever_croupier": 0.16652,
+"p_crever_joueur": 0,
+"second": "double"
+},
+"soft-16-vs-10": {
+"best": "hit",
+"best_ev": -0.20744,
+"cout_erreur": 0.30659,
+"ev": {
+"double": -0.51403,
+"hit": -0.20744,
+"stand": -0.54043
+},
+"p_crever_croupier": 0.22978,
+"p_crever_joueur": 0,
+"second": "double"
+},
+"soft-16-vs-2": {
+"best": "hit",
+"best_ev": -0.02103,
+"cout_erreur": 0.05054,
+"ev": {
+"double": -0.07157,
+"hit": -0.02103,
+"stand": -0.29278
+},
+"p_crever_croupier": 0.35361,
+"p_crever_joueur": 0,
+"second": "double"
+},
+"soft-16-vs-3": {
+"best": "hit",
+"best_ev": 0.00906,
+"cout_erreur": 0.01629,
+"ev": {
+"double": -0.00723,
+"hit": 0.00906,
+"stand": -0.25225
+},
+"p_crever_croupier": 0.37387,
+"p_crever_joueur": 0,
+"second": "double"
+},
+"soft-16-vs-4": {
+"best": "double",
+"best_ev": 0.05843,
+"cout_erreur": 0.01845,
+"ev": {
+"double": 0.05843,
+"hit": 0.03997,
+"stand": -0.21106
+},
+"p_crever_croupier": 0.39447,
+"p_crever_joueur": 0,
+"second": "hit"
+},
+"soft-16-vs-5": {
+"best": "double",
+"best_ev": 0.12595,
+"cout_erreur": 0.05251,
+"ev": {
+"double": 0.12595,
+"hit": 0.07345,
+"stand": -0.16719
+},
+"p_crever_croupier": 0.4164,
+"p_crever_joueur": 0,
+"second": "hit"
+},
+"soft-16-vs-6": {
+"best": "double",
+"best_ev": 0.17975,
+"cout_erreur": 0.08093,
+"ev": {
+"double": 0.17975,
+"hit": 0.09882,
+"stand": -0.1537
+},
+"p_crever_croupier": 0.42315,
+"p_crever_joueur": 0,
+"second": "hit"
+},
+"soft-16-vs-7": {
+"best": "hit",
+"best_ev": -0.00489,
+"cout_erreur": 0.17898,
+"ev": {
+"double": -0.18387,
+"hit": -0.00489,
+"stand": -0.47538
+},
+"p_crever_croupier": 0.26231,
+"p_crever_joueur": 0,
+"second": "double"
+},
+"soft-16-vs-8": {
+"best": "hit",
+"best_ev": -0.06679,
+"cout_erreur": 0.24765,
+"ev": {
+"double": -0.31444,
+"hit": -0.06679,
+"stand": -0.51052
+},
+"p_crever_croupier": 0.24474,
+"p_crever_joueur": 0,
+"second": "double"
+},
+"soft-16-vs-9": {
+"best": "hit",
+"best_ev": -0.14864,
+"cout_erreur": 0.30772,
+"ev": {
+"double": -0.45637,
+"hit": -0.14864,
+"stand": -0.54315
+},
+"p_crever_croupier": 0.22843,
+"p_crever_joueur": 0,
+"second": "double"
+},
+"soft-16-vs-a": {
+"best": "hit",
+"best_ev": -0.16564,
+"cout_erreur": 0.45875,
+"ev": {
+"double": -0.62439,
+"hit": -0.16564,
+"stand": -0.66695
+},
+"p_crever_croupier": 0.16652,
+"p_crever_joueur": 0,
+"second": "double"
+},
+"soft-17-vs-10": {
+"best": "hit",
+"best_ev": -0.19687,
+"cout_erreur": 0.22285,
+"ev": {
+"double": -0.45832,
+"hit": -0.19687,
+"stand": -0.41972
+},
+"p_crever_croupier": 0.22978,
+"p_crever_joueur": 0,
+"second": "stand"
+},
+"soft-17-vs-2": {
+"best": "hit",
+"best_ev": -0.00049,
+"cout_erreur": 0.00655,
+"ev": {
+"double": -0.00704,
+"hit": -0.00049,
+"stand": -0.15297
+},
+"p_crever_croupier": 0.35361,
+"p_crever_joueur": 0,
+"second": "double"
+},
+"soft-17-vs-3": {
+"best": "double",
+"best_ev": 0.0551,
+"cout_erreur": 0.02612,
+"ev": {
+"double": 0.0551,
+"hit": 0.02898,
+"stand": -0.11722
+},
+"p_crever_croupier": 0.37387,
+"p_crever_joueur": 0,
+"second": "hit"
+},
+"soft-17-vs-4": {
+"best": "double",
+"best_ev": 0.11865,
+"cout_erreur": 0.05933,
+"ev": {
+"double": 0.11865,
+"hit": 0.05933,
+"stand": -0.08057
+},
+"p_crever_croupier": 0.39447,
+"p_crever_joueur": 0,
+"second": "hit"
+},
+"soft-17-vs-5": {
+"best": "double",
+"best_ev": 0.18238,
+"cout_erreur": 0.09119,
+"ev": {
+"double": 0.18238,
+"hit": 0.09119,
+"stand": -0.04494
+},
+"p_crever_croupier": 0.4164,
+"p_crever_joueur": 0,
+"second": "hit"
+},
+"soft-17-vs-6": {
+"best": "double",
+"best_ev": 0.2561,
+"cout_erreur": 0.12805,
+"ev": {
+"double": 0.2561,
+"hit": 0.12805,
+"stand": 0.01174
+},
+"p_crever_croupier": 0.42315,
+"p_crever_joueur": 0,
+"second": "hit"
+},
+"soft-17-vs-7": {
+"best": "hit",
+"best_ev": 0.05382,
+"cout_erreur": 0.06758,
+"ev": {
+"double": -0.01376,
+"hit": 0.05382,
+"stand": -0.10681
+},
+"p_crever_croupier": 0.26231,
+"p_crever_joueur": 0,
+"second": "double"
+},
+"soft-17-vs-8": {
+"best": "hit",
+"best_ev": -0.07292,
+"cout_erreur": 0.18219,
+"ev": {
+"double": -0.2551,
+"hit": -0.07292,
+"stand": -0.38195
+},
+"p_crever_croupier": 0.24474,
+"p_crever_joueur": 0,
+"second": "double"
+},
+"soft-17-vs-9": {
+"best": "hit",
+"best_ev": -0.14979,
+"cout_erreur": 0.2512,
+"ev": {
+"double": -0.40098,
+"hit": -0.14979,
+"stand": -0.42315
+},
+"p_crever_croupier": 0.22843,
+"p_crever_joueur": 0,
+"second": "double"
+},
+"soft-17-vs-a": {
+"best": "hit",
+"best_ev": -0.17957,
+"cout_erreur": 0.29846,
+"ev": {
+"double": -0.5372,
+"hit": -0.17957,
+"stand": -0.47803
+},
+"p_crever_croupier": 0.16652,
+"p_crever_joueur": 0,
+"second": "stand"
+},
+"soft-18-vs-10": {
+"best": "hit",
+"best_ev": -0.14381,
+"cout_erreur": 0.03449,
+"ev": {
+"double": -0.34689,
+"hit": -0.14381,
+"stand": -0.1783
+},
+"p_crever_croupier": 0.22978,
+"p_crever_joueur": 0,
+"second": "stand"
+},
+"soft-18-vs-2": {
+"best": "stand",
+"best_ev": 0.12174,
+"cout_erreur": 0.00199,
+"ev": {
+"double": 0.11975,
+"hit": 0.06291,
+"stand": 0.12174
+},
+"p_crever_croupier": 0.35361,
+"p_crever_joueur": 0,
+"second": "double"
+},
+"soft-18-vs-3": {
+"best": "double",
+"best_ev": 0.17764,
+"cout_erreur": 0.02934,
+"ev": {
+"double": 0.17764,
+"hit": 0.09025,
+"stand": 0.1483
+},
+"p_crever_croupier": 0.37387,
+"p_crever_joueur": 0,
+"second": "stand"
+},
+"soft-18-vs-4": {
+"best": "double",
+"best_ev": 0.237,
+"cout_erreur": 0.06115,
+"ev": {
+"double": 0.237,
+"hit": 0.1185,
+"stand": 0.17585
+},
+"p_crever_croupier": 0.39447,
+"p_crever_joueur": 0,
+"second": "stand"
+},
+"soft-18-vs-5": {
+"best": "double",
+"best_ev": 0.29523,
+"cout_erreur": 0.09566,
+"ev": {
+"double": 0.29523,
+"hit": 0.14761,
+"stand": 0.19956
+},
+"p_crever_croupier": 0.4164,
+"p_crever_joueur": 0,
+"second": "stand"
+},
+"soft-18-vs-6": {
+"best": "double",
+"best_ev": 0.38151,
+"cout_erreur": 0.09806,
+"ev": {
+"double": 0.38151,
+"hit": 0.19075,
+"stand": 0.28344
+},
+"p_crever_croupier": 0.42315,
+"p_crever_joueur": 0,
+"second": "stand"
+},
+"soft-18-vs-7": {
+"best": "stand",
+"best_ev": 0.39955,
+"cout_erreur": 0.17961,
+"ev": {
+"double": 0.21995,
+"hit": 0.17068,
+"stand": 0.39955
+},
+"p_crever_croupier": 0.26231,
+"p_crever_joueur": 0,
+"second": "double"
+},
+"soft-18-vs-8": {
+"best": "stand",
+"best_ev": 0.10595,
+"cout_erreur": 0.06627,
+"ev": {
+"double": -0.02992,
+"hit": 0.03968,
+"stand": 0.10595
+},
+"p_crever_croupier": 0.24474,
+"p_crever_joueur": 0,
+"second": "hit"
+},
+"soft-18-vs-9": {
+"best": "hit",
+"best_ev": -0.10074,
+"cout_erreur": 0.08242,
+"ev": {
+"double": -0.29022,
+"hit": -0.10074,
+"stand": -0.18316
+},
+"p_crever_croupier": 0.22843,
+"p_crever_joueur": 0,
+"second": "stand"
+},
+"soft-18-vs-a": {
+"best": "hit",
+"best_ev": -0.09294,
+"cout_erreur": 0.00726,
+"ev": {
+"double": -0.36281,
+"hit": -0.09294,
+"stand": -0.1002
+},
+"p_crever_croupier": 0.16652,
+"p_crever_joueur": 0,
+"second": "stand"
+},
+"soft-19-vs-10": {
+"best": "stand",
+"best_ev": 0.06312,
+"cout_erreur": 0.15121,
+"ev": {
+"double": -0.23547,
+"hit": -0.0881,
+"stand": 0.06312
+},
+"p_crever_croupier": 0.22978,
+"p_crever_joueur": 0,
+"second": "hit"
+},
+"soft-19-vs-2": {
+"best": "stand",
+"best_ev": 0.3863,
+"cout_erreur": 0.14445,
+"ev": {
+"double": 0.24186,
+"hit": 0.12396,
+"stand": 0.3863
+},
+"p_crever_croupier": 0.35361,
+"p_crever_joueur": 0,
+"second": "double"
+},
+"soft-19-vs-3": {
+"best": "stand",
+"best_ev": 0.40436,
+"cout_erreur": 0.10854,
+"ev": {
+"double": 0.29582,
+"hit": 0.14934,
+"stand": 0.40436
+},
+"p_crever_croupier": 0.37387,
+"p_crever_joueur": 0,
+"second": "double"
+},
+"soft-19-vs-4": {
+"best": "stand",
+"best_ev": 0.42318,
+"cout_erreur": 0.07203,
+"ev": {
+"double": 0.35115,
+"hit": 0.17558,
+"stand": 0.42318
+},
+"p_crever_croupier": 0.39447,
+"p_crever_joueur": 0,
+"second": "double"
+},
+"soft-19-vs-5": {
+"best": "stand",
+"best_ev": 0.43951,
+"cout_erreur": 0.03354,
+"ev": {
+"double": 0.40597,
+"hit": 0.20299,
+"stand": 0.43951
+},
+"p_crever_croupier": 0.4164,
+"p_crever_joueur": 0,
+"second": "double"
+},
+"soft-19-vs-6": {
+"best": "stand",
+"best_ev": 0.49598,
+"cout_erreur": 0.01638,
+"ev": {
+"double": 0.4796,
+"hit": 0.2398,
+"stand": 0.49598
+},
+"p_crever_croupier": 0.42315,
+"p_crever_joueur": 0,
+"second": "double"
+},
+"soft-19-vs-7": {
+"best": "stand",
+"best_ev": 0.61598,
+"cout_erreur": 0.29614,
+"ev": {
+"double": 0.31984,
+"hit": 0.22062,
+"stand": 0.61598
+},
+"p_crever_croupier": 0.26231,
+"p_crever_joueur": 0,
+"second": "double"
+},
+"soft-19-vs-8": {
+"best": "stand",
+"best_ev": 0.59385,
+"cout_erreur": 0.39858,
+"ev": {
+"double": 0.19527,
+"hit": 0.15227,
+"stand": 0.59385
+},
+"p_crever_croupier": 0.24474,
+"p_crever_joueur": 0,
+"second": "double"
+},
+"soft-19-vs-9": {
+"best": "stand",
+"best_ev": 0.2876,
+"cout_erreur": 0.2797,
+"ev": {
+"double": -0.07295,
+"hit": 0.00789,
+"stand": 0.2876
+},
+"p_crever_croupier": 0.22843,
+"p_crever_joueur": 0,
+"second": "hit"
+},
+"soft-19-vs-a": {
+"best": "stand",
+"best_ev": 0.27764,
+"cout_erreur": 0.28338,
+"ev": {
+"double": -0.18843,
+"hit": -0.00574,
+"stand": 0.27764
+},
+"p_crever_croupier": 0.16652,
+"p_crever_joueur": 0,
+"second": "hit"
+},
+"soft-20-vs-10": {
+"best": "stand",
+"best_ev": 0.55454,
+"cout_erreur": 0.52923,
+"ev": {
+"double": -0.00866,
+"hit": 0.02531,
+"stand": 0.55454
+},
+"p_crever_croupier": 0.22978,
+"p_crever_joueur": 0,
+"second": "hit"
+},
+"soft-20-vs-2": {
+"best": "stand",
+"best_ev": 0.63999,
+"cout_erreur": 0.28105,
+"ev": {
+"double": 0.35894,
+"hit": 0.1825,
+"stand": 0.63999
+},
+"p_crever_croupier": 0.35361,
+"p_crever_joueur": 0,
+"second": "double"
+},
+"soft-20-vs-3": {
+"best": "stand",
+"best_ev": 0.65027,
+"cout_erreur": 0.24095,
+"ev": {
+"double": 0.40932,
+"hit": 0.20609,
+"stand": 0.65027
+},
+"p_crever_croupier": 0.37387,
+"p_crever_joueur": 0,
+"second": "double"
+},
+"soft-20-vs-4": {
+"best": "stand",
+"best_ev": 0.66105,
+"cout_erreur": 0.20011,
+"ev": {
+"double": 0.46094,
+"hit": 0.23047,
+"stand": 0.66105
+},
+"p_crever_croupier": 0.39447,
+"p_crever_joueur": 0,
+"second": "double"
+},
+"soft-20-vs-5": {
+"best": "stand",
+"best_ev": 0.67036,
+"cout_erreur": 0.15784,
+"ev": {
+"double": 0.51252,
+"hit": 0.25626,
+"stand": 0.67036
+},
+"p_crever_croupier": 0.4164,
+"p_crever_joueur": 0,
+"second": "double"
+},
+"soft-20-vs-6": {
+"best": "stand",
+"best_ev": 0.70396,
+"cout_erreur": 0.12837,
+"ev": {
+"double": 0.57559,
+"hit": 0.2878,
+"stand": 0.70396
+},
+"p_crever_croupier": 0.42315,
+"p_crever_joueur": 0,
+"second": "double"
+},
+"soft-20-vs-7": {
+"best": "stand",
+"best_ev": 0.77323,
+"cout_erreur": 0.38081,
+"ev": {
+"double": 0.39241,
+"hit": 0.25691,
+"stand": 0.77323
+},
+"p_crever_croupier": 0.26231,
+"p_crever_joueur": 0,
+"second": "double"
+},
+"soft-20-vs-8": {
+"best": "stand",
+"best_ev": 0.79182,
+"cout_erreur": 0.50518,
+"ev": {
+"double": 0.28664,
+"hit": 0.19795,
+"stand": 0.79182
+},
+"p_crever_croupier": 0.24474,
+"p_crever_joueur": 0,
+"second": "double"
+},
+"soft-20-vs-9": {
+"best": "stand",
+"best_ev": 0.75836,
+"cout_erreur": 0.61403,
+"ev": {
+"double": 0.14433,
+"hit": 0.11653,
+"stand": 0.75836
+},
+"p_crever_croupier": 0.22843,
+"p_crever_joueur": 0,
+"second": "double"
+},
+"soft-20-vs-a": {
+"best": "stand",
+"best_ev": 0.65547,
+"cout_erreur": 0.57402,
+"ev": {
+"double": -0.01404,
+"hit": 0.08145,
+"stand": 0.65547
+},
+"p_crever_croupier": 0.16652,
+"p_crever_joueur": 0,
+"second": "hit"
+}
+}
