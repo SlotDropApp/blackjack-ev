@@ -1,0 +1,42 @@
+# Re-solves the table from scratch and checks all 340 cells against the
+# hand-transcribed chart, on every push.
+#
+# The point is not ceremony. The data files are committed, so a change to
+# the solver could leave them stale and nobody would notice — the README
+# would keep quoting numbers no longer produced by the code. This job
+# rebuilds the JSON and fails if the committed copy drifts from it.
+name: validate
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Solve the table
+        run: python3 blackjack_ev.py
+
+      - name: Compare against the published chart
+        run: python3 validate.py
+
+      - name: Rebuild the CSV exports
+        run: python3 export_csv.py
+
+      - name: Fail if the committed data is stale
+        run: |
+          if ! git diff --quiet -- data/; then
+            echo "::error::data/ differs from what the current code produces."
+            echo "Run the three scripts locally and commit the result."
+            git --no-pager diff --stat -- data/
+            exit 1
+          fi
+          echo "Committed data matches a fresh run."
