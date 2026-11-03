@@ -146,3 +146,10 @@ MIT. Use the data, fork the solver, publish your own numbers.
 
 Built for [slotdropapp.com](https://slotdropapp.com), which uses this table
 to explain individual hands.
+## Live Calculators & Official Links
+
+* **[Blackjack Strategy Coach & EV Calculator](https://slotdropapp.com/blackjack.html)** – Interactive trainer powered by this exact EV solver.
+* **[Roulette Probability Simulator](https://slotdropapp.com/roulette.html)** – Variance streaks, betting progressions, and risk of ruin simulator.
+* **[Casino Math & Strategy Blog](https://slotdropapp.com/blog.html)** – Deep dives into house edge, probability models, and bankroll management.
+* **[Donate & Support](https://slotdropapp.com/donate.html)** – Support server costs to keep the calculators 100% free.
+* **[Official Reddit Profile (u/Slotdropapp)](https://www.reddit.com/user/Slotdropapp/)** – Discussions, updates, and mathematical simulations.
